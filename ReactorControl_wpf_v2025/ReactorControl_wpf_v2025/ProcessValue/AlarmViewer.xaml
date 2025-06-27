@@ -1,0 +1,464 @@
+﻿<UserControl x:Class="ProcessValue.AlarmViewer"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ProcessValue"
+             mc:Ignorable="d" 
+             d:DesignHeight="700" Width="1210">
+    <UserControl.Resources>
+    </UserControl.Resources>
+    <Canvas Margin="0,0,0,0">
+        <TextBlock x:Name="TXT_ALARMTITLE" Canvas.Left="1000" TextWrapping="Wrap" Text="(1/8)" Canvas.Top="25" FontFamily="Arial Monospaced" FontSize="20" HorizontalAlignment="Right"/>
+        <Grid HorizontalAlignment="Left" Height="555" Margin="5,0,0,0" VerticalAlignment="Top" Width="1039" Canvas.Top="50" Canvas.Left="20">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="25*" />
+                <RowDefinition Height="25*"/>
+                <RowDefinition Height="25*"/>
+                <RowDefinition Height="25*"/>
+                <RowDefinition Height="25*"/>
+                <RowDefinition Height="25*"/>
+                <RowDefinition Height="25*"/>
+                <RowDefinition Height="25*"/>
+                <RowDefinition Height="25*"/>
+                <RowDefinition Height="25*"/>
+                <RowDefinition Height="25*"/>
+                <RowDefinition Height="25*"/>
+                <RowDefinition Height="25*"/>
+                <RowDefinition Height="25*"/>
+                <RowDefinition Height="25*"/>
+                <RowDefinition Height="25*"/>
+                <RowDefinition Height="25*"/>
+                <RowDefinition Height="25*"/>
+                <RowDefinition Height="25*"/>
+                <RowDefinition Height="25*"/>
+                <RowDefinition Height="25*"/>
+                <RowDefinition Height="25*"/>
+                <RowDefinition Height="25*"/>
+                <RowDefinition Height="25*"/>
+                <RowDefinition Height="25*"/>
+                <RowDefinition Height="25*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0*"/>
+                <ColumnDefinition Width="40*"/>
+                <ColumnDefinition Width="50*"/>
+                <ColumnDefinition Width="150*"/>
+                <ColumnDefinition Width="400*"/>
+                <ColumnDefinition Width="100*"/>
+                <ColumnDefinition Width="100*"/>
+                <ColumnDefinition Width="50*"/>
+                <ColumnDefinition Width="190*"/>
+            </Grid.ColumnDefinitions>
+            <Border x:Name="BORDHE" Background="#FF9E9E9E"  Grid.Column="4" Grid.ColumnSpan="1" Grid.Row="00"/>
+            <Border x:Name="ALBG01" Background="#FFE6E6E6"  Grid.Column="4" Grid.ColumnSpan="1" Grid.Row="01"/>
+            <Border x:Name="ALBG02" Background="#FFE6E6E6"  Grid.Column="4" Grid.ColumnSpan="1" Grid.Row="02"/>
+            <Border x:Name="ALBG03" Background="#FFE6E6E6"  Grid.Column="4" Grid.ColumnSpan="1" Grid.Row="03"/>
+            <Border x:Name="ALBG04" Background="#FFE6E6E6"  Grid.Column="4" Grid.ColumnSpan="1" Grid.Row="04"/>
+            <Border x:Name="ALBG05" Background="#FFE6E6E6"  Grid.Column="4" Grid.ColumnSpan="1" Grid.Row="05"/>
+            <Border x:Name="ALBG06" Background="#FFE6E6E6"  Grid.Column="4" Grid.ColumnSpan="1" Grid.Row="06"/>
+            <Border x:Name="ALBG07" Background="#FFE6E6E6"  Grid.Column="4" Grid.ColumnSpan="1" Grid.Row="07"/>
+            <Border x:Name="ALBG08" Background="#FFE6E6E6"  Grid.Column="4" Grid.ColumnSpan="1" Grid.Row="08"/>
+            <Border x:Name="ALBG09" Background="#FFE6E6E6"  Grid.Column="4" Grid.ColumnSpan="1" Grid.Row="09"/>
+            <Border x:Name="ALBG10" Background="#FFE6E6E6"  Grid.Column="4" Grid.ColumnSpan="1" Grid.Row="10"/>
+            <Border x:Name="ALBG11" Background="#FFE6E6E6"  Grid.Column="4" Grid.ColumnSpan="1" Grid.Row="11"/>
+            <Border x:Name="ALBG12" Background="#FFE6E6E6"  Grid.Column="4" Grid.ColumnSpan="1" Grid.Row="12"/>
+            <Border x:Name="ALBG13" Background="#FFE6E6E6"  Grid.Column="4" Grid.ColumnSpan="1" Grid.Row="13"/>
+            <Border x:Name="ALBG14" Background="#FFE6E6E6"  Grid.Column="4" Grid.ColumnSpan="1" Grid.Row="14"/>
+            <Border x:Name="ALBG15" Background="#FFE6E6E6"  Grid.Column="4" Grid.ColumnSpan="1" Grid.Row="15"/>
+            <Border x:Name="ALBG16" Background="#FFE6E6E6"  Grid.Column="4" Grid.ColumnSpan="1" Grid.Row="16"/>
+            <Border x:Name="ALBG17" Background="#FFE6E6E6"  Grid.Column="4" Grid.ColumnSpan="1" Grid.Row="17"/>
+            <Border x:Name="ALBG18" Background="#FFE6E6E6"  Grid.Column="4" Grid.ColumnSpan="1" Grid.Row="18"/>
+            <Border x:Name="ALBG19" Background="#FFE6E6E6"  Grid.Column="4" Grid.ColumnSpan="1" Grid.Row="19"/>
+            <Border x:Name="ALBG20" Background="#FFE6E6E6"  Grid.Column="4" Grid.ColumnSpan="1" Grid.Row="20"/>
+            <Border x:Name="ALBG21" Background="#FFE6E6E6"  Grid.Column="4" Grid.ColumnSpan="1" Grid.Row="21"/>
+            <Border x:Name="ALBG22" Background="#FFE6E6E6"  Grid.Column="4" Grid.ColumnSpan="1" Grid.Row="22"/>
+            <Border x:Name="ALBG23" Background="#FFE6E6E6"  Grid.Column="4" Grid.ColumnSpan="1" Grid.Row="23"/>
+            <Border x:Name="ALBG24" Background="#FFE6E6E6"  Grid.Column="4" Grid.ColumnSpan="1" Grid.Row="24"/>
+            <Border x:Name="ALBG25" Background="#FFE6E6E6"  Grid.Column="4" Grid.ColumnSpan="1" Grid.Row="25"/>
+
+            <Border Background="#FF9E9E9E"  Grid.Column="1" Grid.ColumnSpan="3" Grid.Row="00"/>
+            <Border Background="#FFE6E6E6"  Grid.Column="1" Grid.ColumnSpan="3" Grid.Row="01"/>
+            <Border Background="#FFE6E6E6"  Grid.Column="1" Grid.ColumnSpan="3" Grid.Row="02"/>
+            <Border Background="#FFE6E6E6"  Grid.Column="1" Grid.ColumnSpan="3" Grid.Row="03"/>
+            <Border Background="#FFE6E6E6"  Grid.Column="1" Grid.ColumnSpan="3" Grid.Row="04"/>
+            <Border Background="#FFE6E6E6"  Grid.Column="1" Grid.ColumnSpan="3" Grid.Row="05"/>
+            <Border Background="#FFE6E6E6"  Grid.Column="1" Grid.ColumnSpan="3" Grid.Row="06"/>
+            <Border Background="#FFE6E6E6"  Grid.Column="1" Grid.ColumnSpan="3" Grid.Row="07"/>
+            <Border Background="#FFE6E6E6"  Grid.Column="1" Grid.ColumnSpan="3" Grid.Row="08"/>
+            <Border Background="#FFE6E6E6"  Grid.Column="1" Grid.ColumnSpan="3" Grid.Row="09"/>
+            <Border Background="#FFE6E6E6"  Grid.Column="1" Grid.ColumnSpan="3" Grid.Row="10"/>
+            <Border Background="#FFE6E6E6"  Grid.Column="1" Grid.ColumnSpan="3" Grid.Row="11"/>
+            <Border Background="#FFE6E6E6"  Grid.Column="1" Grid.ColumnSpan="3" Grid.Row="12"/>
+            <Border Background="#FFE6E6E6"  Grid.Column="1" Grid.ColumnSpan="3" Grid.Row="13"/>
+            <Border Background="#FFE6E6E6"  Grid.Column="1" Grid.ColumnSpan="3" Grid.Row="14"/>
+            <Border Background="#FFE6E6E6"  Grid.Column="1" Grid.ColumnSpan="3" Grid.Row="15"/>
+            <Border Background="#FFE6E6E6"  Grid.Column="1" Grid.ColumnSpan="3" Grid.Row="16"/>
+            <Border Background="#FFE6E6E6"  Grid.Column="1" Grid.ColumnSpan="3" Grid.Row="17"/>
+            <Border Background="#FFE6E6E6"  Grid.Column="1" Grid.ColumnSpan="3" Grid.Row="18"/>
+            <Border Background="#FFE6E6E6"  Grid.Column="1" Grid.ColumnSpan="3" Grid.Row="19"/>
+            <Border Background="#FFE6E6E6"  Grid.Column="1" Grid.ColumnSpan="3" Grid.Row="20"/>
+            <Border Background="#FFE6E6E6"  Grid.Column="1" Grid.ColumnSpan="3" Grid.Row="21"/>
+            <Border Background="#FFE6E6E6"  Grid.Column="1" Grid.ColumnSpan="3" Grid.Row="22"/>
+            <Border Background="#FFE6E6E6"  Grid.Column="1" Grid.ColumnSpan="3" Grid.Row="23"/>
+            <Border Background="#FFE6E6E6"  Grid.Column="1" Grid.ColumnSpan="3" Grid.Row="24"/>
+            <Border Background="#FFE6E6E6"  Grid.Column="1" Grid.ColumnSpan="3" Grid.Row="25"/>
+
+            <Border Background="#FF9E9E9E"  Grid.Column="5" Grid.ColumnSpan="4" Grid.Row="00"/>
+            <Border Background="#FFE6E6E6"  Grid.Column="5" Grid.ColumnSpan="4" Grid.Row="01"/>
+            <Border Background="#FFE6E6E6"  Grid.Column="5" Grid.ColumnSpan="4" Grid.Row="02"/>
+            <Border Background="#FFE6E6E6"  Grid.Column="5" Grid.ColumnSpan="4" Grid.Row="03"/>
+            <Border Background="#FFE6E6E6"  Grid.Column="5" Grid.ColumnSpan="4" Grid.Row="04"/>
+            <Border Background="#FFE6E6E6"  Grid.Column="5" Grid.ColumnSpan="4" Grid.Row="05"/>
+            <Border Background="#FFE6E6E6"  Grid.Column="5" Grid.ColumnSpan="4" Grid.Row="06"/>
+            <Border Background="#FFE6E6E6"  Grid.Column="5" Grid.ColumnSpan="4" Grid.Row="07"/>
+            <Border Background="#FFE6E6E6"  Grid.Column="5" Grid.ColumnSpan="4" Grid.Row="08"/>
+            <Border Background="#FFE6E6E6"  Grid.Column="5" Grid.ColumnSpan="4" Grid.Row="09"/>
+            <Border Background="#FFE6E6E6"  Grid.Column="5" Grid.ColumnSpan="4" Grid.Row="10"/>
+            <Border Background="#FFE6E6E6"  Grid.Column="5" Grid.ColumnSpan="4" Grid.Row="11"/>
+            <Border Background="#FFE6E6E6"  Grid.Column="5" Grid.ColumnSpan="4" Grid.Row="12"/>
+            <Border Background="#FFE6E6E6"  Grid.Column="5" Grid.ColumnSpan="4" Grid.Row="13"/>
+            <Border Background="#FFE6E6E6"  Grid.Column="5" Grid.ColumnSpan="4" Grid.Row="14"/>
+            <Border Background="#FFE6E6E6"  Grid.Column="5" Grid.ColumnSpan="4" Grid.Row="15"/>
+            <Border Background="#FFE6E6E6"  Grid.Column="5" Grid.ColumnSpan="4" Grid.Row="16"/>
+            <Border Background="#FFE6E6E6"  Grid.Column="5" Grid.ColumnSpan="4" Grid.Row="17"/>
+            <Border Background="#FFE6E6E6"  Grid.Column="5" Grid.ColumnSpan="4" Grid.Row="18"/>
+            <Border Background="#FFE6E6E6"  Grid.Column="5" Grid.ColumnSpan="4" Grid.Row="19"/>
+            <Border Background="#FFE6E6E6"  Grid.Column="5" Grid.ColumnSpan="4" Grid.Row="20"/>
+            <Border Background="#FFE6E6E6"  Grid.Column="5" Grid.ColumnSpan="4" Grid.Row="21"/>
+            <Border Background="#FFE6E6E6"  Grid.Column="5" Grid.ColumnSpan="4" Grid.Row="22"/>
+            <Border Background="#FFE6E6E6"  Grid.Column="5" Grid.ColumnSpan="4" Grid.Row="23"/>
+            <Border Background="#FFE6E6E6"  Grid.Column="5" Grid.ColumnSpan="4" Grid.Row="24"/>
+            <Border Background="#FFE6E6E6"  Grid.Column="5" Grid.ColumnSpan="4" Grid.Row="25"/>
+
+
+            <TextBlock Margin="0" TextWrapping="Wrap" Text="ST" Grid.Column="1" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            <TextBlock Margin="0" TextWrapping="Wrap" Text="PRI" Grid.Column="2" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            <TextBlock Margin="0" TextWrapping="Wrap" Text="ALARM ID" Grid.Column="3" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            <TextBlock Margin="0" TextWrapping="Wrap" Text="DESCRIPTION" Grid.Column="4" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            <TextBlock Margin="0" TextWrapping="Wrap" Text="VALUE" Grid.Column="5" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            <TextBlock Margin="0" TextWrapping="Wrap" Text="SETPOINT" Grid.Column="6" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            <TextBlock Margin="0" TextWrapping="Wrap" Text="UNIT" Grid.Column="7" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            <TextBlock Margin="0" TextWrapping="Wrap" Text="DATE / TIME" Grid.Column="8" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+
+            <TextBlock x:Name="ST01" TextWrapping="Wrap" Text="-" Grid.Column="1" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="01"/>
+            <TextBlock x:Name="ST02" TextWrapping="Wrap" Text="-" Grid.Column="1" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="02"/>
+            <TextBlock x:Name="ST03" TextWrapping="Wrap" Text="-" Grid.Column="1" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="03"/>
+            <TextBlock x:Name="ST04" TextWrapping="Wrap" Text="-" Grid.Column="1" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="04"/>
+            <TextBlock x:Name="ST05" TextWrapping="Wrap" Text="-" Grid.Column="1" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="05"/>
+            <TextBlock x:Name="ST06" TextWrapping="Wrap" Text="-" Grid.Column="1" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="06"/>
+            <TextBlock x:Name="ST07" TextWrapping="Wrap" Text="-" Grid.Column="1" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="07"/>
+            <TextBlock x:Name="ST08" TextWrapping="Wrap" Text="-" Grid.Column="1" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="08"/>
+            <TextBlock x:Name="ST09" TextWrapping="Wrap" Text="-" Grid.Column="1" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="09"/>
+            <TextBlock x:Name="ST10" TextWrapping="Wrap" Text="-" Grid.Column="1" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="10"/>
+            <TextBlock x:Name="ST11" TextWrapping="Wrap" Text="-" Grid.Column="1" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="11"/>
+            <TextBlock x:Name="ST12" TextWrapping="Wrap" Text="-" Grid.Column="1" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="12"/>
+            <TextBlock x:Name="ST13" TextWrapping="Wrap" Text="-" Grid.Column="1" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="13"/>
+            <TextBlock x:Name="ST14" TextWrapping="Wrap" Text="-" Grid.Column="1" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="14"/>
+            <TextBlock x:Name="ST15" TextWrapping="Wrap" Text="-" Grid.Column="1" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="15"/>
+            <TextBlock x:Name="ST16" TextWrapping="Wrap" Text="-" Grid.Column="1" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="16"/>
+            <TextBlock x:Name="ST17" TextWrapping="Wrap" Text="-" Grid.Column="1" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="17"/>
+            <TextBlock x:Name="ST18" TextWrapping="Wrap" Text="-" Grid.Column="1" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="18"/>
+            <TextBlock x:Name="ST19" TextWrapping="Wrap" Text="-" Grid.Column="1" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="19"/>
+            <TextBlock x:Name="ST20" TextWrapping="Wrap" Text="-" Grid.Column="1" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="20"/>
+            <TextBlock x:Name="ST21" TextWrapping="Wrap" Text="-" Grid.Column="1" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="21"/>
+            <TextBlock x:Name="ST22" TextWrapping="Wrap" Text="-" Grid.Column="1" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="22"/>
+            <TextBlock x:Name="ST23" TextWrapping="Wrap" Text="-" Grid.Column="1" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="23"/>
+            <TextBlock x:Name="ST24" TextWrapping="Wrap" Text="-" Grid.Column="1" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="24"/>
+            <TextBlock x:Name="ST25" TextWrapping="Wrap" Text="-" Grid.Column="1" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="25"/>
+
+            <TextBlock x:Name="PRI01" TextWrapping="Wrap" Text="-" Grid.Column="2" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="01"/>
+            <TextBlock x:Name="PRI02" TextWrapping="Wrap" Text="-" Grid.Column="2" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="02"/>
+            <TextBlock x:Name="PRI03" TextWrapping="Wrap" Text="-" Grid.Column="2" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="03"/>
+            <TextBlock x:Name="PRI04" TextWrapping="Wrap" Text="-" Grid.Column="2" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="04"/>
+            <TextBlock x:Name="PRI05" TextWrapping="Wrap" Text="-" Grid.Column="2" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="05"/>
+            <TextBlock x:Name="PRI06" TextWrapping="Wrap" Text="-" Grid.Column="2" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="06"/>
+            <TextBlock x:Name="PRI07" TextWrapping="Wrap" Text="-" Grid.Column="2" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="07"/>
+            <TextBlock x:Name="PRI08" TextWrapping="Wrap" Text="-" Grid.Column="2" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="08"/>
+            <TextBlock x:Name="PRI09" TextWrapping="Wrap" Text="-" Grid.Column="2" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="09"/>
+            <TextBlock x:Name="PRI10" TextWrapping="Wrap" Text="-" Grid.Column="2" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="10"/>
+            <TextBlock x:Name="PRI11" TextWrapping="Wrap" Text="-" Grid.Column="2" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="11"/>
+            <TextBlock x:Name="PRI12" TextWrapping="Wrap" Text="-" Grid.Column="2" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="12"/>
+            <TextBlock x:Name="PRI13" TextWrapping="Wrap" Text="-" Grid.Column="2" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="13"/>
+            <TextBlock x:Name="PRI14" TextWrapping="Wrap" Text="-" Grid.Column="2" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="14"/>
+            <TextBlock x:Name="PRI15" TextWrapping="Wrap" Text="-" Grid.Column="2" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="15"/>
+            <TextBlock x:Name="PRI16" TextWrapping="Wrap" Text="-" Grid.Column="2" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="16"/>
+            <TextBlock x:Name="PRI17" TextWrapping="Wrap" Text="-" Grid.Column="2" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="17"/>
+            <TextBlock x:Name="PRI18" TextWrapping="Wrap" Text="-" Grid.Column="2" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="18"/>
+            <TextBlock x:Name="PRI19" TextWrapping="Wrap" Text="-" Grid.Column="2" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="19"/>
+            <TextBlock x:Name="PRI20" TextWrapping="Wrap" Text="-" Grid.Column="2" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="20"/>
+            <TextBlock x:Name="PRI21" TextWrapping="Wrap" Text="-" Grid.Column="2" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="21"/>
+            <TextBlock x:Name="PRI22" TextWrapping="Wrap" Text="-" Grid.Column="2" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="22"/>
+            <TextBlock x:Name="PRI23" TextWrapping="Wrap" Text="-" Grid.Column="2" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="23"/>
+            <TextBlock x:Name="PRI24" TextWrapping="Wrap" Text="-" Grid.Column="2" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="24"/>
+            <TextBlock x:Name="PRI25" TextWrapping="Wrap" Text="-" Grid.Column="2" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="25"/>
+
+            <TextBlock x:Name="ALID01" TextWrapping="Wrap" Text="-" Grid.Column="3" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="01"/>
+            <TextBlock x:Name="ALID02" TextWrapping="Wrap" Text="-" Grid.Column="3" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="02"/>
+            <TextBlock x:Name="ALID03" TextWrapping="Wrap" Text="-" Grid.Column="3" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="03"/>
+            <TextBlock x:Name="ALID04" TextWrapping="Wrap" Text="-" Grid.Column="3" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="04"/>
+            <TextBlock x:Name="ALID05" TextWrapping="Wrap" Text="-" Grid.Column="3" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="05"/>
+            <TextBlock x:Name="ALID06" TextWrapping="Wrap" Text="-" Grid.Column="3" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="06"/>
+            <TextBlock x:Name="ALID07" TextWrapping="Wrap" Text="-" Grid.Column="3" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="07"/>
+            <TextBlock x:Name="ALID08" TextWrapping="Wrap" Text="-" Grid.Column="3" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="08"/>
+            <TextBlock x:Name="ALID09" TextWrapping="Wrap" Text="-" Grid.Column="3" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="09"/>
+            <TextBlock x:Name="ALID10" TextWrapping="Wrap" Text="-" Grid.Column="3" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="10"/>
+            <TextBlock x:Name="ALID11" TextWrapping="Wrap" Text="-" Grid.Column="3" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="11"/>
+            <TextBlock x:Name="ALID12" TextWrapping="Wrap" Text="-" Grid.Column="3" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="12"/>
+            <TextBlock x:Name="ALID13" TextWrapping="Wrap" Text="-" Grid.Column="3" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="13"/>
+            <TextBlock x:Name="ALID14" TextWrapping="Wrap" Text="-" Grid.Column="3" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="14"/>
+            <TextBlock x:Name="ALID15" TextWrapping="Wrap" Text="-" Grid.Column="3" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="15"/>
+            <TextBlock x:Name="ALID16" TextWrapping="Wrap" Text="-" Grid.Column="3" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="16"/>
+            <TextBlock x:Name="ALID17" TextWrapping="Wrap" Text="-" Grid.Column="3" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="17"/>
+            <TextBlock x:Name="ALID18" TextWrapping="Wrap" Text="-" Grid.Column="3" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="18"/>
+            <TextBlock x:Name="ALID19" TextWrapping="Wrap" Text="-" Grid.Column="3" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="19"/>
+            <TextBlock x:Name="ALID20" TextWrapping="Wrap" Text="-" Grid.Column="3" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="20"/>
+            <TextBlock x:Name="ALID21" TextWrapping="Wrap" Text="-" Grid.Column="3" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="21"/>
+            <TextBlock x:Name="ALID22" TextWrapping="Wrap" Text="-" Grid.Column="3" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="22"/>
+            <TextBlock x:Name="ALID23" TextWrapping="Wrap" Text="-" Grid.Column="3" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="23"/>
+            <TextBlock x:Name="ALID24" TextWrapping="Wrap" Text="-" Grid.Column="3" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="24"/>
+            <TextBlock x:Name="ALID25" TextWrapping="Wrap" Text="-" Grid.Column="3" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="25"/>
+
+
+            <TextBlock x:Name="DSC01" TextWrapping="Wrap" Text="-" Grid.Column="4" Grid.Row="01" Margin="10,0,0,0" VerticalAlignment="Center"/>
+            <TextBlock x:Name="DSC02" TextWrapping="Wrap" Text="-" Grid.Column="4" Grid.Row="02" Margin="10,0,0,0" VerticalAlignment="Center"/>
+            <TextBlock x:Name="DSC03" TextWrapping="Wrap" Text="-" Grid.Column="4" Grid.Row="03" Margin="10,0,0,0" VerticalAlignment="Center"/>
+            <TextBlock x:Name="DSC04" TextWrapping="Wrap" Text="-" Grid.Column="4" Grid.Row="04" Margin="10,0,0,0" VerticalAlignment="Center"/>
+            <TextBlock x:Name="DSC05" TextWrapping="Wrap" Text="-" Grid.Column="4" Grid.Row="05" Margin="10,0,0,0" VerticalAlignment="Center"/>
+            <TextBlock x:Name="DSC06" TextWrapping="Wrap" Text="-" Grid.Column="4" Grid.Row="06" Margin="10,0,0,0" VerticalAlignment="Center"/>
+            <TextBlock x:Name="DSC07" TextWrapping="Wrap" Text="-" Grid.Column="4" Grid.Row="07" Margin="10,0,0,0" VerticalAlignment="Center"/>
+            <TextBlock x:Name="DSC08" TextWrapping="Wrap" Text="-" Grid.Column="4" Grid.Row="08" Margin="10,0,0,0" VerticalAlignment="Center"/>
+            <TextBlock x:Name="DSC09" TextWrapping="Wrap" Text="-" Grid.Column="4" Grid.Row="09" Margin="10,0,0,0" VerticalAlignment="Center"/>
+            <TextBlock x:Name="DSC10" TextWrapping="Wrap" Text="-" Grid.Column="4" Grid.Row="10" Margin="10,0,0,0" VerticalAlignment="Center"/>
+            <TextBlock x:Name="DSC11" TextWrapping="Wrap" Text="-" Grid.Column="4" Grid.Row="11" Margin="10,0,0,0" VerticalAlignment="Center"/>
+            <TextBlock x:Name="DSC12" TextWrapping="Wrap" Text="-" Grid.Column="4" Grid.Row="12" Margin="10,0,0,0" VerticalAlignment="Center"/>
+            <TextBlock x:Name="DSC13" TextWrapping="Wrap" Text="-" Grid.Column="4" Grid.Row="13" Margin="10,0,0,0" VerticalAlignment="Center"/>
+            <TextBlock x:Name="DSC14" TextWrapping="Wrap" Text="-" Grid.Column="4" Grid.Row="14" Margin="10,0,0,0" VerticalAlignment="Center"/>
+            <TextBlock x:Name="DSC15" TextWrapping="Wrap" Text="-" Grid.Column="4" Grid.Row="15" Margin="10,0,0,0" VerticalAlignment="Center"/>
+            <TextBlock x:Name="DSC16" TextWrapping="Wrap" Text="-" Grid.Column="4" Grid.Row="16" Margin="10,0,0,0" VerticalAlignment="Center"/>
+            <TextBlock x:Name="DSC17" TextWrapping="Wrap" Text="-" Grid.Column="4" Grid.Row="17" Margin="10,0,0,0" VerticalAlignment="Center"/>
+            <TextBlock x:Name="DSC18" TextWrapping="Wrap" Text="-" Grid.Column="4" Grid.Row="18" Margin="10,0,0,0" VerticalAlignment="Center"/>
+            <TextBlock x:Name="DSC19" TextWrapping="Wrap" Text="-" Grid.Column="4" Grid.Row="19" Margin="10,0,0,0" VerticalAlignment="Center"/>
+            <TextBlock x:Name="DSC20" TextWrapping="Wrap" Text="-" Grid.Column="4" Grid.Row="20" Margin="10,0,0,0" VerticalAlignment="Center"/>
+            <TextBlock x:Name="DSC21" TextWrapping="Wrap" Text="-" Grid.Column="4" Grid.Row="21" Margin="10,0,0,0" VerticalAlignment="Center"/>
+            <TextBlock x:Name="DSC22" TextWrapping="Wrap" Text="-" Grid.Column="4" Grid.Row="22" Margin="10,0,0,0" VerticalAlignment="Center"/>
+            <TextBlock x:Name="DSC23" TextWrapping="Wrap" Text="-" Grid.Column="4" Grid.Row="23" Margin="10,0,0,0" VerticalAlignment="Center"/>
+            <TextBlock x:Name="DSC24" TextWrapping="Wrap" Text="-" Grid.Column="4" Grid.Row="24" Margin="10,0,0,0" VerticalAlignment="Center"/>
+            <TextBlock x:Name="DSC25" TextWrapping="Wrap" Text="-" Grid.Column="4" Grid.Row="25" Margin="10,0,0,0" VerticalAlignment="Center"/>
+
+            <TextBlock x:Name="VAL01" TextWrapping="Wrap" Text="-" Grid.Column="5" Grid.Row="01" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="VAL02" TextWrapping="Wrap" Text="-" Grid.Column="5" Grid.Row="02" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="VAL03" TextWrapping="Wrap" Text="-" Grid.Column="5" Grid.Row="03" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="VAL04" TextWrapping="Wrap" Text="-" Grid.Column="5" Grid.Row="04" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="VAL05" TextWrapping="Wrap" Text="-" Grid.Column="5" Grid.Row="05" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="VAL06" TextWrapping="Wrap" Text="-" Grid.Column="5" Grid.Row="06" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="VAL07" TextWrapping="Wrap" Text="-" Grid.Column="5" Grid.Row="07" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="VAL08" TextWrapping="Wrap" Text="-" Grid.Column="5" Grid.Row="08" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="VAL09" TextWrapping="Wrap" Text="-" Grid.Column="5" Grid.Row="09" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="VAL10" TextWrapping="Wrap" Text="-" Grid.Column="5" Grid.Row="10" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="VAL11" TextWrapping="Wrap" Text="-" Grid.Column="5" Grid.Row="11" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="VAL12" TextWrapping="Wrap" Text="-" Grid.Column="5" Grid.Row="12" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="VAL13" TextWrapping="Wrap" Text="-" Grid.Column="5" Grid.Row="13" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="VAL14" TextWrapping="Wrap" Text="-" Grid.Column="5" Grid.Row="14" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="VAL15" TextWrapping="Wrap" Text="-" Grid.Column="5" Grid.Row="15" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="VAL16" TextWrapping="Wrap" Text="-" Grid.Column="5" Grid.Row="16" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="VAL17" TextWrapping="Wrap" Text="-" Grid.Column="5" Grid.Row="17" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="VAL18" TextWrapping="Wrap" Text="-" Grid.Column="5" Grid.Row="18" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="VAL19" TextWrapping="Wrap" Text="-" Grid.Column="5" Grid.Row="19" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="VAL20" TextWrapping="Wrap" Text="-" Grid.Column="5" Grid.Row="20" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="VAL21" TextWrapping="Wrap" Text="-" Grid.Column="5" Grid.Row="21" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="VAL22" TextWrapping="Wrap" Text="-" Grid.Column="5" Grid.Row="22" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="VAL23" TextWrapping="Wrap" Text="-" Grid.Column="5" Grid.Row="23" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="VAL24" TextWrapping="Wrap" Text="-" Grid.Column="5" Grid.Row="24" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="VAL25" TextWrapping="Wrap" Text="-" Grid.Column="5" Grid.Row="25" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+
+            <TextBlock x:Name="SET01" TextWrapping="Wrap" Text="-" Grid.Column="6" Grid.Row="01" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="SET02" TextWrapping="Wrap" Text="-" Grid.Column="6" Grid.Row="02" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="SET03" TextWrapping="Wrap" Text="-" Grid.Column="6" Grid.Row="03" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="SET04" TextWrapping="Wrap" Text="-" Grid.Column="6" Grid.Row="04" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="SET05" TextWrapping="Wrap" Text="-" Grid.Column="6" Grid.Row="05" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="SET06" TextWrapping="Wrap" Text="-" Grid.Column="6" Grid.Row="06" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="SET07" TextWrapping="Wrap" Text="-" Grid.Column="6" Grid.Row="07" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="SET08" TextWrapping="Wrap" Text="-" Grid.Column="6" Grid.Row="08" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="SET09" TextWrapping="Wrap" Text="-" Grid.Column="6" Grid.Row="09" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="SET10" TextWrapping="Wrap" Text="-" Grid.Column="6" Grid.Row="10" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="SET11" TextWrapping="Wrap" Text="-" Grid.Column="6" Grid.Row="11" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="SET12" TextWrapping="Wrap" Text="-" Grid.Column="6" Grid.Row="12" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="SET13" TextWrapping="Wrap" Text="-" Grid.Column="6" Grid.Row="13" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="SET14" TextWrapping="Wrap" Text="-" Grid.Column="6" Grid.Row="14" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="SET15" TextWrapping="Wrap" Text="-" Grid.Column="6" Grid.Row="15" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="SET16" TextWrapping="Wrap" Text="-" Grid.Column="6" Grid.Row="16" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="SET17" TextWrapping="Wrap" Text="-" Grid.Column="6" Grid.Row="17" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="SET18" TextWrapping="Wrap" Text="-" Grid.Column="6" Grid.Row="18" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="SET19" TextWrapping="Wrap" Text="-" Grid.Column="6" Grid.Row="19" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="SET20" TextWrapping="Wrap" Text="-" Grid.Column="6" Grid.Row="20" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="SET21" TextWrapping="Wrap" Text="-" Grid.Column="6" Grid.Row="21" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="SET22" TextWrapping="Wrap" Text="-" Grid.Column="6" Grid.Row="22" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="SET23" TextWrapping="Wrap" Text="-" Grid.Column="6" Grid.Row="23" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="SET24" TextWrapping="Wrap" Text="-" Grid.Column="6" Grid.Row="24" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="SET25" TextWrapping="Wrap" Text="-" Grid.Column="6" Grid.Row="25" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+
+            <TextBlock x:Name="UNT01" TextWrapping="Wrap" Text="-" Grid.Column="7" Grid.Row="01" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="UNT02" TextWrapping="Wrap" Text="-" Grid.Column="7" Grid.Row="02" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="UNT03" TextWrapping="Wrap" Text="-" Grid.Column="7" Grid.Row="03" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="UNT04" TextWrapping="Wrap" Text="-" Grid.Column="7" Grid.Row="04" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="UNT05" TextWrapping="Wrap" Text="-" Grid.Column="7" Grid.Row="05" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="UNT06" TextWrapping="Wrap" Text="-" Grid.Column="7" Grid.Row="06" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="UNT07" TextWrapping="Wrap" Text="-" Grid.Column="7" Grid.Row="07" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="UNT08" TextWrapping="Wrap" Text="-" Grid.Column="7" Grid.Row="08" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="UNT09" TextWrapping="Wrap" Text="-" Grid.Column="7" Grid.Row="09" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="UNT10" TextWrapping="Wrap" Text="-" Grid.Column="7" Grid.Row="10" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="UNT11" TextWrapping="Wrap" Text="-" Grid.Column="7" Grid.Row="11" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="UNT12" TextWrapping="Wrap" Text="-" Grid.Column="7" Grid.Row="12" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="UNT13" TextWrapping="Wrap" Text="-" Grid.Column="7" Grid.Row="13" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="UNT14" TextWrapping="Wrap" Text="-" Grid.Column="7" Grid.Row="14" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="UNT15" TextWrapping="Wrap" Text="-" Grid.Column="7" Grid.Row="15" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="UNT16" TextWrapping="Wrap" Text="-" Grid.Column="7" Grid.Row="16" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="UNT17" TextWrapping="Wrap" Text="-" Grid.Column="7" Grid.Row="17" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="UNT18" TextWrapping="Wrap" Text="-" Grid.Column="7" Grid.Row="18" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="UNT19" TextWrapping="Wrap" Text="-" Grid.Column="7" Grid.Row="19" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="UNT20" TextWrapping="Wrap" Text="-" Grid.Column="7" Grid.Row="20" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="UNT21" TextWrapping="Wrap" Text="-" Grid.Column="7" Grid.Row="21" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="UNT22" TextWrapping="Wrap" Text="-" Grid.Column="7" Grid.Row="22" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="UNT23" TextWrapping="Wrap" Text="-" Grid.Column="7" Grid.Row="23" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="UNT24" TextWrapping="Wrap" Text="-" Grid.Column="7" Grid.Row="24" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBlock x:Name="UNT25" TextWrapping="Wrap" Text="-" Grid.Column="7" Grid.Row="25" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+
+            <TextBlock x:Name="TME01" TextWrapping="Wrap" Text="-" Grid.Column="8" Grid.Row="01" Margin="5,0,0,0" VerticalAlignment="Center"/>
+            <TextBlock x:Name="TME02" TextWrapping="Wrap" Text="-" Grid.Column="8" Grid.Row="02" Margin="5,0,0,0" VerticalAlignment="Center"/>
+            <TextBlock x:Name="TME03" TextWrapping="Wrap" Text="-" Grid.Column="8" Grid.Row="03" Margin="5,0,0,0" VerticalAlignment="Center"/>
+            <TextBlock x:Name="TME04" TextWrapping="Wrap" Text="-" Grid.Column="8" Grid.Row="04" Margin="5,0,0,0" VerticalAlignment="Center"/>
+            <TextBlock x:Name="TME05" TextWrapping="Wrap" Text="-" Grid.Column="8" Grid.Row="05" Margin="5,0,0,0" VerticalAlignment="Center"/>
+            <TextBlock x:Name="TME06" TextWrapping="Wrap" Text="-" Grid.Column="8" Grid.Row="06" Margin="5,0,0,0" VerticalAlignment="Center"/>
+            <TextBlock x:Name="TME07" TextWrapping="Wrap" Text="-" Grid.Column="8" Grid.Row="07" Margin="5,0,0,0" VerticalAlignment="Center"/>
+            <TextBlock x:Name="TME08" TextWrapping="Wrap" Text="-" Grid.Column="8" Grid.Row="08" Margin="5,0,0,0" VerticalAlignment="Center"/>
+            <TextBlock x:Name="TME09" TextWrapping="Wrap" Text="-" Grid.Column="8" Grid.Row="09" Margin="5,0,0,0" VerticalAlignment="Center"/>
+            <TextBlock x:Name="TME10" TextWrapping="Wrap" Text="-" Grid.Column="8" Grid.Row="10" Margin="5,0,0,0" VerticalAlignment="Center"/>
+            <TextBlock x:Name="TME11" TextWrapping="Wrap" Text="-" Grid.Column="8" Grid.Row="11" Margin="5,0,0,0" VerticalAlignment="Center"/>
+            <TextBlock x:Name="TME12" TextWrapping="Wrap" Text="-" Grid.Column="8" Grid.Row="12" Margin="5,0,0,0" VerticalAlignment="Center"/>
+            <TextBlock x:Name="TME13" TextWrapping="Wrap" Text="-" Grid.Column="8" Grid.Row="13" Margin="5,0,0,0" VerticalAlignment="Center"/>
+            <TextBlock x:Name="TME14" TextWrapping="Wrap" Text="-" Grid.Column="8" Grid.Row="14" Margin="5,0,0,0" VerticalAlignment="Center"/>
+            <TextBlock x:Name="TME15" TextWrapping="Wrap" Text="-" Grid.Column="8" Grid.Row="15" Margin="5,0,0,0" VerticalAlignment="Center"/>
+            <TextBlock x:Name="TME16" TextWrapping="Wrap" Text="-" Grid.Column="8" Grid.Row="16" Margin="5,0,0,0" VerticalAlignment="Center"/>
+            <TextBlock x:Name="TME17" TextWrapping="Wrap" Text="-" Grid.Column="8" Grid.Row="17" Margin="5,0,0,0" VerticalAlignment="Center"/>
+            <TextBlock x:Name="TME18" TextWrapping="Wrap" Text="-" Grid.Column="8" Grid.Row="18" Margin="5,0,0,0" VerticalAlignment="Center"/>
+            <TextBlock x:Name="TME19" TextWrapping="Wrap" Text="-" Grid.Column="8" Grid.Row="19" Margin="5,0,0,0" VerticalAlignment="Center"/>
+            <TextBlock x:Name="TME20" TextWrapping="Wrap" Text="-" Grid.Column="8" Grid.Row="20" Margin="5,0,0,0" VerticalAlignment="Center"/>
+            <TextBlock x:Name="TME21" TextWrapping="Wrap" Text="-" Grid.Column="8" Grid.Row="21" Margin="5,0,0,0" VerticalAlignment="Center"/>
+            <TextBlock x:Name="TME22" TextWrapping="Wrap" Text="-" Grid.Column="8" Grid.Row="22" Margin="5,0,0,0" VerticalAlignment="Center"/>
+            <TextBlock x:Name="TME23" TextWrapping="Wrap" Text="-" Grid.Column="8" Grid.Row="23" Margin="5,0,0,0" VerticalAlignment="Center"/>
+            <TextBlock x:Name="TME24" TextWrapping="Wrap" Text="-" Grid.Column="8" Grid.Row="24" Margin="5,0,0,0" VerticalAlignment="Center"/>
+            <TextBlock x:Name="TME25" TextWrapping="Wrap" Text="-" Grid.Column="8" Grid.Row="25" Margin="5,0,0,0" VerticalAlignment="Center"/>
+        </Grid>
+
+        <!-- 경보 정보 및 필터링 -->
+        <Grid Height="300" Canvas.Left="1070" Canvas.Top="300" Width="130">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="3*"/>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="3*"/>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="4*"/>
+            </Grid.RowDefinitions>
+
+            <!--토탈 경보-->
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Border Background="#F7F0F0F0" Grid.ColumnSpan="2" BorderBrush="Black" CornerRadius="2" BorderThickness="1">
+                    <TextBlock Text="Total" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center"></TextBlock>
+                </Border>
+                <Border Background="#F7F0F0F0" Grid.Row="1" BorderBrush="#FFC3C3C3" CornerRadius="2" BorderThickness="1">
+                    <TextBlock x:Name="TXT_NEWALARM" Text="N:0" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center"></TextBlock>
+                </Border>
+                <Border Background="#F7F0F0F0" Grid.Row="1" Grid.Column="1"  BorderBrush="#FFC3C3C3" CornerRadius="2" BorderThickness="1">
+                    <TextBlock x:Name="TXT_ACKALARM" Text="A:1" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center"></TextBlock>
+                </Border>
+                <Border Background="#F7F0F0F0" Grid.Row="2" Grid.Column="0" BorderBrush="#FFC3C3C3" CornerRadius="2" BorderThickness="1">
+                    <TextBlock x:Name="TXT_CLRALARM" Text="C:1" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center"></TextBlock>
+                </Border>
+                <Border Background="#F7F0F0F0" Grid.Row="2" Grid.Column="1" BorderBrush="#FFC3C3C3" CornerRadius="2" BorderThickness="1">
+                    <TextBlock x:Name="TXT_RINGALARM" Text="R:0" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center"></TextBlock>
+                </Border>
+            </Grid>
+
+            <!--경보 정렬 버튼-->
+            <Grid Grid.Row="2">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Border Background="#F7F0F0F0" Grid.ColumnSpan="2" BorderBrush="Black" CornerRadius="2" BorderThickness="1" Margin="0,0,0,2">
+                    <TextBlock Text="Sorting" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center"></TextBlock>
+                </Border>
+                <Button x:Name="BTN_BASIC" Content="BASIC" Grid.Row="1" Background="#FFD8D4BF" Margin="2"/>
+                <Button x:Name="BTN_PRIORITY" Content="PRIORITY" Grid.Row="2" Background="#FFD8D4BF"  Margin="2"/>
+            </Grid>
+
+            <!--경보 필터링 버튼-->
+            <Grid Grid.Row="4">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Border Background="#F7F0F0F0" Grid.ColumnSpan="2" BorderBrush="Black" CornerRadius="2" BorderThickness="1" Margin="0,0,0,2">
+                    <TextBlock Text="Sorting" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center"></TextBlock>
+                </Border>
+                <Button x:Name="BTN_SRT_UNACK" Content="Unack" Grid.Column="0" Grid.Row="1" Background="#FFD8D4BF" Margin="2" Click="BTN_SRT_UNACK_Click"/>
+                <Button x:Name="BTN_SRT_ACK" Content="Ack" Grid.Column="1" Grid.Row="1" Background="#FFD8D4BF" Margin="2" Click="BTN_SRT_ACK_Click" />
+                <Button x:Name="BTN_SRT_P1" Content="P1" Grid.Column="0" Grid.Row="2" Background="#FFD8D4BF" Margin="2,2,2,0" Height="21" VerticalAlignment="Top" Click="BTN_SRT_P1_Click" />
+                <Button x:Name="BTN_SRT_RING" Content="Ring" Grid.Column="1" Grid.Row="2" Background="#FFD8D4BF" Margin="2" Click="BTN_SRT_RING_Click" />
+                <Button x:Name="BTN_SRT_P2" Content="P2" Grid.Column="0" Grid.Row="3" Background="#FFD8D4BF" Margin="2" Click="BTN_SRT_P2_Click" />
+                <Button x:Name="BTN_SRT_CLR" Content="CLR" Grid.Column="1" Grid.Row="3" Background="#FFD8D4BF" Margin="2" Click="BTN_SRT_CLR_Click" />
+            </Grid>
+        </Grid>
+
+        <!--경보 제어 및 페이지 네비 버튼-->
+        <Grid Height="40" Canvas.Left="20" Canvas.Top="640" Width="1040">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Button x:Name="BTN_ACK" Content="ACK PAGE" Grid.Column="0" Background="#FFFDFDFD" Margin="5" Click="BTN_ACK_Click"/>
+            <Button x:Name="BTN_RESET" Content="RESET PAGE" Grid.Column="1" Background="#FFFDFDFD" Margin="5" Click="BTN_RESET_Click"/>
+            <Button x:Name="BTN_SLIENCE" Content="SILENCE" Grid.Column="2" Background="#FFFDFDFD" Margin="5" Click="BTN_SLIENCE_Click"/>
+            <Button x:Name="BTN_TEST" Content="TEST" Grid.Column="3" Background="#FFFDFDFD" Margin="5" Click="BTN_TEST_Click"/>
+            <Button x:Name="BTN_DELCLR" Content="DEL CLEARED" Grid.Column="5" Background="#FFFDFDFD" Margin="5" Click="BTN_DELCLR_Click"/>
+            <Button x:Name="BTN_SUPPRESS" Content="SUPPRESSION" Grid.Column="6" Background="#FFFDFDFD" Margin="5" Click="BTN_SUPPRESS_Click"/>
+            <Button x:Name="BTN_HISTORY" Content="HISTORY" Grid.Column="9" Background="#FFFDFDFD" Margin="5" Click="BTN_HISTORY_Click"/>
+
+        </Grid>
+        <Grid Height="35" Canvas.Left="889" Canvas.Top="605" Width="170">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Button x:Name="BTN_PREPAGE" Content="BACK" Grid.Column="0" Background="#FFFDFDFD" Margin="5" Click="BTN_PREPAGE_Click"/>
+            <Button x:Name="BTN_NEXTPAGE" Content="NEXT" Grid.Column="1" Background="#FFFDFDFD" Margin="5" Click="BTN_NEXTPAGE_Click"/>
+
+        </Grid>
+
+    </Canvas>
+</UserControl>

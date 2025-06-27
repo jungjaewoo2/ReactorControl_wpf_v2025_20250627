@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\SVN_zetta\\olive\\Zetta\\ReactorContoller\\300_Develop\\ReactorControl_Blend\\ReactorControl_wpf_v2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E15612C-4CEA-4B74-ACBF-F0E220A598BA}|ReactorControl_wpf_v2025\\ReactorControl.csproj|e:\\svn_zetta\\olive\\zetta\\reactorcontoller\\300_develop\\reactorcontrol_blend\\reactorcontrol_wpf_v2025\\reactorcontrol_wpf_v2025\\popup\\popup_pumpcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8E15612C-4CEA-4B74-ACBF-F0E220A598BA}|ReactorControl_wpf_v2025\\ReactorControl.csproj|solutionrelative:reactorcontrol_wpf_v2025\\popup\\popup_pumpcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E15612C-4CEA-4B74-ACBF-F0E220A598BA}|ReactorControl_wpf_v2025\\ReactorControl.csproj|e:\\svn_zetta\\olive\\zetta\\reactorcontoller\\300_develop\\reactorcontrol_blend\\reactorcontrol_wpf_v2025\\reactorcontrol_wpf_v2025\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8E15612C-4CEA-4B74-ACBF-F0E220A598BA}|ReactorControl_wpf_v2025\\ReactorControl.csproj|solutionrelative:reactorcontrol_wpf_v2025\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E15612C-4CEA-4B74-ACBF-F0E220A598BA}|ReactorControl_wpf_v2025\\ReactorControl.csproj|e:\\svn_zetta\\olive\\zetta\\reactorcontoller\\300_develop\\reactorcontrol_blend\\reactorcontrol_wpf_v2025\\reactorcontrol_wpf_v2025\\view\\uc_lrs1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8E15612C-4CEA-4B74-ACBF-F0E220A598BA}|ReactorControl_wpf_v2025\\ReactorControl.csproj|solutionrelative:reactorcontrol_wpf_v2025\\view\\uc_lrs1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 607,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Popup_pumpControl.xaml",
+              "DocumentMoniker": "E:\\SVN_zetta\\olive\\Zetta\\ReactorContoller\\300_Develop\\ReactorControl_Blend\\ReactorControl_wpf_v2025\\ReactorControl_wpf_v2025\\Popup\\Popup_pumpControl.xaml",
+              "RelativeDocumentMoniker": "ReactorControl_wpf_v2025\\Popup\\Popup_pumpControl.xaml",
+              "ToolTip": "E:\\SVN_zetta\\olive\\Zetta\\ReactorContoller\\300_Develop\\ReactorControl_Blend\\ReactorControl_wpf_v2025\\ReactorControl_wpf_v2025\\Popup\\Popup_pumpControl.xaml",
+              "RelativeToolTip": "ReactorControl_wpf_v2025\\Popup\\Popup_pumpControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-26T06:03:34.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\SVN_zetta\\olive\\Zetta\\ReactorContoller\\300_Develop\\ReactorControl_Blend\\ReactorControl_wpf_v2025\\ReactorControl_wpf_v2025\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ReactorControl_wpf_v2025\\MainWindow.xaml",
+              "ToolTip": "E:\\SVN_zetta\\olive\\Zetta\\ReactorContoller\\300_Develop\\ReactorControl_Blend\\ReactorControl_wpf_v2025\\ReactorControl_wpf_v2025\\MainWindow.xaml",
+              "RelativeToolTip": "ReactorControl_wpf_v2025\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-26T06:00:26.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UC_LRS1.xaml",
+              "DocumentMoniker": "E:\\SVN_zetta\\olive\\Zetta\\ReactorContoller\\300_Develop\\ReactorControl_Blend\\ReactorControl_wpf_v2025\\ReactorControl_wpf_v2025\\View\\UC_LRS1.xaml",
+              "RelativeDocumentMoniker": "ReactorControl_wpf_v2025\\View\\UC_LRS1.xaml",
+              "ToolTip": "E:\\SVN_zetta\\olive\\Zetta\\ReactorContoller\\300_Develop\\ReactorControl_Blend\\ReactorControl_wpf_v2025\\ReactorControl_wpf_v2025\\View\\UC_LRS1.xaml",
+              "RelativeToolTip": "ReactorControl_wpf_v2025\\View\\UC_LRS1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-24T00:03:54.189Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,905 @@
+E:\_DevCloud\OWS\MainFrame\ProcessValue\bin\Debug\ProcessValue.dll
+E:\_DevCloud\OWS\MainFrame\ProcessValue\bin\Debug\ProcessValue.pdb
+E:\_DevCloud\OWS\MainFrame\ProcessValue\obj\Debug\ProcessValue.csprojResolveAssemblyReference.cache
+E:\_DevCloud\OWS\MainFrame\ProcessValue\obj\Debug\PorcessValue.g.cs
+E:\_DevCloud\OWS\MainFrame\ProcessValue\obj\Debug\ProcessValueText.g.cs
+E:\_DevCloud\OWS\MainFrame\ProcessValue\obj\Debug\PVColorTextBox.g.cs
+E:\_DevCloud\OWS\MainFrame\ProcessValue\obj\Debug\RodStatus.g.cs
+E:\_DevCloud\OWS\MainFrame\ProcessValue\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\_DevCloud\OWS\MainFrame\ProcessValue\obj\Debug\ProcessValue_MarkupCompile.cache
+E:\_DevCloud\OWS\MainFrame\ProcessValue\obj\Debug\ProcessValue_MarkupCompile.lref
+E:\_DevCloud\OWS\MainFrame\ProcessValue\obj\Debug\PorcessValue.baml
+E:\_DevCloud\OWS\MainFrame\ProcessValue\obj\Debug\ProcessValueText.baml
+E:\_DevCloud\OWS\MainFrame\ProcessValue\obj\Debug\PVColorTextBox.baml
+E:\_DevCloud\OWS\MainFrame\ProcessValue\obj\Debug\RodStatus.baml
+E:\_DevCloud\OWS\MainFrame\ProcessValue\obj\Debug\ProcessValue.g.resources
+E:\_DevCloud\OWS\MainFrame\ProcessValue\obj\Debug\ProcessValue.Properties.Resources.resources
+E:\_DevCloud\OWS\MainFrame\ProcessValue\obj\Debug\ProcessValue.csproj.GenerateResource.Cache
+E:\_DevCloud\OWS\MainFrame\ProcessValue\obj\Debug\ProcessValue.dll
+E:\_DevCloud\OWS\MainFrame\ProcessValue\obj\Debug\ProcessValue.pdb
+C:\_DevCloud\OWS\MainFrame\ProcessValue\bin\Debug\ProcessValue.dll
+C:\_DevCloud\OWS\MainFrame\ProcessValue\bin\Debug\ProcessValue.pdb
+C:\_DevCloud\OWS\MainFrame\ProcessValue\bin\Debug\LibUtility.dll
+C:\_DevCloud\OWS\MainFrame\ProcessValue\bin\Debug\PDBLib.dll
+C:\_DevCloud\OWS\MainFrame\ProcessValue\bin\Debug\MySqlConnector.dll
+C:\_DevCloud\OWS\MainFrame\ProcessValue\bin\Debug\System.Memory.dll
+C:\_DevCloud\OWS\MainFrame\ProcessValue\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\_DevCloud\OWS\MainFrame\ProcessValue\bin\Debug\System.Data.Common.dll
+C:\_DevCloud\OWS\MainFrame\ProcessValue\bin\Debug\System.Buffers.dll
+C:\_DevCloud\OWS\MainFrame\ProcessValue\bin\Debug\netstandard.dll
+C:\_DevCloud\OWS\MainFrame\ProcessValue\bin\Debug\System.Numerics.Vectors.dll
+C:\_DevCloud\OWS\MainFrame\ProcessValue\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\_DevCloud\OWS\MainFrame\ProcessValue\bin\Debug\LibUtility.pdb
+C:\_DevCloud\OWS\MainFrame\ProcessValue\bin\Debug\PDBLib.pdb
+C:\_DevCloud\OWS\MainFrame\ProcessValue\bin\Debug\MySqlConnector.xml
+C:\_DevCloud\OWS\MainFrame\ProcessValue\bin\Debug\System.Memory.xml
+C:\_DevCloud\OWS\MainFrame\ProcessValue\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\_DevCloud\OWS\MainFrame\ProcessValue\bin\Debug\System.Buffers.xml
+C:\_DevCloud\OWS\MainFrame\ProcessValue\bin\Debug\System.Numerics.Vectors.xml
+C:\_DevCloud\OWS\MainFrame\ProcessValue\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\_DevCloud\OWS\MainFrame\ProcessValue\obj\Debug\ProcessValue.csprojAssemblyReference.cache
+C:\_DevCloud\OWS\MainFrame\ProcessValue\obj\Debug\AlarmViewer.g.cs
+C:\_DevCloud\OWS\MainFrame\ProcessValue\obj\Debug\BarChartA.g.cs
+C:\_DevCloud\OWS\MainFrame\ProcessValue\obj\Debug\DigitalValueText.g.cs
+C:\_DevCloud\OWS\MainFrame\ProcessValue\obj\Debug\PorcessValueBox.g.cs
+C:\_DevCloud\OWS\MainFrame\ProcessValue\obj\Debug\ProcessValueText.g.cs
+C:\_DevCloud\OWS\MainFrame\ProcessValue\obj\Debug\PVColorTextBox.g.cs
+C:\_DevCloud\OWS\MainFrame\ProcessValue\obj\Debug\RodStatus.g.cs
+C:\_DevCloud\OWS\MainFrame\ProcessValue\obj\Debug\TextBox.g.cs
+C:\_DevCloud\OWS\MainFrame\ProcessValue\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\_DevCloud\OWS\MainFrame\ProcessValue\obj\Debug\ProcessValue_MarkupCompile.cache
+C:\_DevCloud\OWS\MainFrame\ProcessValue\obj\Debug\ProcessValue_MarkupCompile.lref
+C:\_DevCloud\OWS\MainFrame\ProcessValue\obj\Debug\AlarmViewer.baml
+C:\_DevCloud\OWS\MainFrame\ProcessValue\obj\Debug\BarChartA.baml
+C:\_DevCloud\OWS\MainFrame\ProcessValue\obj\Debug\DigitalValueText.baml
+C:\_DevCloud\OWS\MainFrame\ProcessValue\obj\Debug\PorcessValueBox.baml
+C:\_DevCloud\OWS\MainFrame\ProcessValue\obj\Debug\ProcessValueText.baml
+C:\_DevCloud\OWS\MainFrame\ProcessValue\obj\Debug\PVColorTextBox.baml
+C:\_DevCloud\OWS\MainFrame\ProcessValue\obj\Debug\RodStatus.baml
+C:\_DevCloud\OWS\MainFrame\ProcessValue\obj\Debug\TextBox.baml
+C:\_DevCloud\OWS\MainFrame\ProcessValue\obj\Debug\Themes\Generic.baml
+C:\_DevCloud\OWS\MainFrame\ProcessValue\obj\Debug\ProcessValue.g.resources
+C:\_DevCloud\OWS\MainFrame\ProcessValue\obj\Debug\ProcessValue.Properties.Resources.resources
+C:\_DevCloud\OWS\MainFrame\ProcessValue\obj\Debug\ProcessValue.csproj.GenerateResource.cache
+C:\_DevCloud\OWS\MainFrame\ProcessValue\obj\Debug\ProcessValue.csproj.CoreCompileInputs.cache
+C:\_DevCloud\OWS\MainFrame\ProcessValue\obj\Debug\ProcessValue.csproj.CopyComplete
+C:\_DevCloud\OWS\MainFrame\ProcessValue\obj\Debug\ProcessValue.dll
+C:\_DevCloud\OWS\MainFrame\ProcessValue\obj\Debug\ProcessValue.pdb
+C:\_DevCloud\OWS\MainFrame\ProcessValue\obj\Debug\PIDInfo.g.cs
+C:\_DevCloud\OWS\MainFrame\ProcessValue\obj\Debug\PIDInfo.baml
+C:\_DevCloud\OWS\MainFrame\ProcessValue\bin\Debug\InfluxDB.LineProtocol.dll
+C:\_DevCloud\OWS\MainFrame\ProcessValue\bin\Debug\PDBLib.dll.config
+C:\_DevCloud\OWS\MainFrame\ProcessValue\bin\Debug\LibHistorian.dll
+C:\_DevCloud\OWS\MainFrame\ProcessValue\bin\Debug\InfluxDB.Client.Core.dll
+C:\_DevCloud\OWS\MainFrame\ProcessValue\bin\Debug\NodaTime.dll
+C:\_DevCloud\OWS\MainFrame\ProcessValue\bin\Debug\InfluxDB.Client.dll
+C:\_DevCloud\OWS\MainFrame\ProcessValue\bin\Debug\RestSharp.dll
+C:\_DevCloud\OWS\MainFrame\ProcessValue\bin\Debug\Newtonsoft.Json.dll
+C:\_DevCloud\OWS\MainFrame\ProcessValue\bin\Debug\CsvHelper.dll
+C:\_DevCloud\OWS\MainFrame\ProcessValue\bin\Debug\System.Reactive.dll
+C:\_DevCloud\OWS\MainFrame\ProcessValue\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\_DevCloud\OWS\MainFrame\ProcessValue\bin\Debug\System.Collections.Immutable.dll
+C:\_DevCloud\OWS\MainFrame\ProcessValue\bin\Debug\JsonSubTypes.dll
+C:\_DevCloud\OWS\MainFrame\ProcessValue\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\_DevCloud\OWS\MainFrame\ProcessValue\bin\Debug\System.ValueTuple.dll
+C:\_DevCloud\OWS\MainFrame\ProcessValue\bin\Debug\LibHistorian.pdb
+C:\_DevCloud\OWS\MainFrame\ProcessValue\bin\Debug\LibHistorian.dll.config
+C:\_DevCloud\OWS\MainFrame\ProcessValue\bin\Debug\NodaTime.pdb
+C:\_DevCloud\OWS\MainFrame\ProcessValue\bin\Debug\NodaTime.xml
+C:\_DevCloud\OWS\MainFrame\ProcessValue\bin\Debug\RestSharp.xml
+C:\_DevCloud\OWS\MainFrame\ProcessValue\bin\Debug\Newtonsoft.Json.xml
+C:\_DevCloud\OWS\MainFrame\ProcessValue\bin\Debug\CsvHelper.xml
+C:\_DevCloud\OWS\MainFrame\ProcessValue\bin\Debug\System.Reactive.xml
+C:\_DevCloud\OWS\MainFrame\ProcessValue\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+C:\_DevCloud\OWS\MainFrame\ProcessValue\bin\Debug\System.Collections.Immutable.xml
+C:\_DevCloud\OWS\MainFrame\ProcessValue\obj\Debug\TrendChart.g.cs
+C:\_DevCloud\OWS\MainFrame\ProcessValue\obj\Debug\TrendChart.baml
+C:\_DevCloud\OWS\MainFrame\ProcessValue\obj\Debug\TrendChartSignalSelect.g.cs
+C:\_DevCloud\OWS\MainFrame\ProcessValue\obj\Debug\TrendChartSignalSelect.baml
+C:\_DevCloud\OWS\MainFrame\ProcessValue\obj\Debug\MenuMainButton.g.cs
+C:\_DevCloud\OWS\MainFrame\ProcessValue\obj\Debug\MenuMainButton.baml
+C:\OWS\MainFrame\ProcessValue\obj\Debug\ProcessValue.csprojAssemblyReference.cache
+C:\OWS\MainFrame\ProcessValue\obj\Debug\AlarmViewer.g.cs
+C:\OWS\MainFrame\ProcessValue\obj\Debug\BarChartA.g.cs
+C:\OWS\MainFrame\ProcessValue\obj\Debug\DigitalValueText.g.cs
+C:\OWS\MainFrame\ProcessValue\obj\Debug\MenuMainButton.g.cs
+C:\OWS\MainFrame\ProcessValue\obj\Debug\PIDInfo.g.cs
+C:\OWS\MainFrame\ProcessValue\obj\Debug\PorcessValueBox.g.cs
+C:\OWS\MainFrame\ProcessValue\obj\Debug\ProcessValueText.g.cs
+C:\OWS\MainFrame\ProcessValue\obj\Debug\PVColorTextBox.g.cs
+C:\OWS\MainFrame\ProcessValue\obj\Debug\RodStatus.g.cs
+C:\OWS\MainFrame\ProcessValue\obj\Debug\TextBox.g.cs
+C:\OWS\MainFrame\ProcessValue\obj\Debug\TrendChart.g.cs
+C:\OWS\MainFrame\ProcessValue\obj\Debug\TrendChartSignalSelect.g.cs
+C:\OWS\MainFrame\ProcessValue\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\OWS\MainFrame\ProcessValue\obj\Debug\ProcessValue_MarkupCompile.cache
+C:\OWS\MainFrame\ProcessValue\obj\Debug\ProcessValue_MarkupCompile.lref
+C:\OWS\MainFrame\ProcessValue\obj\Debug\ProcessValue.dll
+C:\OWS\MainFrame\ProcessValue\obj\Debug\ProcessValue.pdb
+C:\IPS_System\OWS\MainFrame\ProcessValue\bin\Debug\ProcessValue.dll
+C:\IPS_System\OWS\MainFrame\ProcessValue\bin\Debug\ProcessValue.pdb
+C:\IPS_System\OWS\MainFrame\ProcessValue\bin\Debug\LibHistorian.dll
+C:\IPS_System\OWS\MainFrame\ProcessValue\bin\Debug\LibUtility.dll
+C:\IPS_System\OWS\MainFrame\ProcessValue\bin\Debug\PDBLib.dll
+C:\IPS_System\OWS\MainFrame\ProcessValue\bin\Debug\MySqlConnector.dll
+C:\IPS_System\OWS\MainFrame\ProcessValue\bin\Debug\InfluxDB.LineProtocol.dll
+C:\IPS_System\OWS\MainFrame\ProcessValue\bin\Debug\InfluxDB.Client.Core.dll
+C:\IPS_System\OWS\MainFrame\ProcessValue\bin\Debug\NodaTime.dll
+C:\IPS_System\OWS\MainFrame\ProcessValue\bin\Debug\InfluxDB.Client.dll
+C:\IPS_System\OWS\MainFrame\ProcessValue\bin\Debug\System.Memory.dll
+C:\IPS_System\OWS\MainFrame\ProcessValue\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\IPS_System\OWS\MainFrame\ProcessValue\bin\Debug\System.Data.Common.dll
+C:\IPS_System\OWS\MainFrame\ProcessValue\bin\Debug\System.Buffers.dll
+C:\IPS_System\OWS\MainFrame\ProcessValue\bin\Debug\netstandard.dll
+C:\IPS_System\OWS\MainFrame\ProcessValue\bin\Debug\RestSharp.dll
+C:\IPS_System\OWS\MainFrame\ProcessValue\bin\Debug\Newtonsoft.Json.dll
+C:\IPS_System\OWS\MainFrame\ProcessValue\bin\Debug\CsvHelper.dll
+C:\IPS_System\OWS\MainFrame\ProcessValue\bin\Debug\System.Reactive.dll
+C:\IPS_System\OWS\MainFrame\ProcessValue\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\IPS_System\OWS\MainFrame\ProcessValue\bin\Debug\System.Collections.Immutable.dll
+C:\IPS_System\OWS\MainFrame\ProcessValue\bin\Debug\JsonSubTypes.dll
+C:\IPS_System\OWS\MainFrame\ProcessValue\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\IPS_System\OWS\MainFrame\ProcessValue\bin\Debug\System.Numerics.Vectors.dll
+C:\IPS_System\OWS\MainFrame\ProcessValue\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\IPS_System\OWS\MainFrame\ProcessValue\bin\Debug\System.ValueTuple.dll
+C:\IPS_System\OWS\MainFrame\ProcessValue\bin\Debug\LibUtility.pdb
+C:\IPS_System\OWS\MainFrame\ProcessValue\bin\Debug\PDBLib.pdb
+C:\IPS_System\OWS\MainFrame\ProcessValue\bin\Debug\PDBLib.dll.config
+C:\IPS_System\OWS\MainFrame\ProcessValue\bin\Debug\LibHistorian.pdb
+C:\IPS_System\OWS\MainFrame\ProcessValue\bin\Debug\LibHistorian.dll.config
+C:\IPS_System\OWS\MainFrame\ProcessValue\bin\Debug\MySqlConnector.xml
+C:\IPS_System\OWS\MainFrame\ProcessValue\bin\Debug\NodaTime.pdb
+C:\IPS_System\OWS\MainFrame\ProcessValue\bin\Debug\NodaTime.xml
+C:\IPS_System\OWS\MainFrame\ProcessValue\bin\Debug\System.Memory.xml
+C:\IPS_System\OWS\MainFrame\ProcessValue\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\IPS_System\OWS\MainFrame\ProcessValue\bin\Debug\System.Buffers.xml
+C:\IPS_System\OWS\MainFrame\ProcessValue\bin\Debug\RestSharp.xml
+C:\IPS_System\OWS\MainFrame\ProcessValue\bin\Debug\Newtonsoft.Json.xml
+C:\IPS_System\OWS\MainFrame\ProcessValue\bin\Debug\CsvHelper.xml
+C:\IPS_System\OWS\MainFrame\ProcessValue\bin\Debug\System.Reactive.xml
+C:\IPS_System\OWS\MainFrame\ProcessValue\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+C:\IPS_System\OWS\MainFrame\ProcessValue\bin\Debug\System.Collections.Immutable.xml
+C:\IPS_System\OWS\MainFrame\ProcessValue\bin\Debug\System.Numerics.Vectors.xml
+C:\IPS_System\OWS\MainFrame\ProcessValue\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\IPS_System\OWS\MainFrame\ProcessValue\obj\Debug\ProcessValue.csprojAssemblyReference.cache
+C:\IPS_System\OWS\MainFrame\ProcessValue\obj\Debug\AlarmViewer.g.cs
+C:\IPS_System\OWS\MainFrame\ProcessValue\obj\Debug\BarChartA.g.cs
+C:\IPS_System\OWS\MainFrame\ProcessValue\obj\Debug\DigitalValueText.g.cs
+C:\IPS_System\OWS\MainFrame\ProcessValue\obj\Debug\MenuMainButton.g.cs
+C:\IPS_System\OWS\MainFrame\ProcessValue\obj\Debug\PIDInfo.g.cs
+C:\IPS_System\OWS\MainFrame\ProcessValue\obj\Debug\PorcessValueBox.g.cs
+C:\IPS_System\OWS\MainFrame\ProcessValue\obj\Debug\ProcessValueText.g.cs
+C:\IPS_System\OWS\MainFrame\ProcessValue\obj\Debug\PVColorTextBox.g.cs
+C:\IPS_System\OWS\MainFrame\ProcessValue\obj\Debug\RodStatus.g.cs
+C:\IPS_System\OWS\MainFrame\ProcessValue\obj\Debug\TextBox.g.cs
+C:\IPS_System\OWS\MainFrame\ProcessValue\obj\Debug\TrendChart.g.cs
+C:\IPS_System\OWS\MainFrame\ProcessValue\obj\Debug\TrendChartSignalSelect.g.cs
+C:\IPS_System\OWS\MainFrame\ProcessValue\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\IPS_System\OWS\MainFrame\ProcessValue\obj\Debug\ProcessValue_MarkupCompile.cache
+C:\IPS_System\OWS\MainFrame\ProcessValue\obj\Debug\ProcessValue_MarkupCompile.lref
+C:\IPS_System\OWS\MainFrame\ProcessValue\obj\Debug\AlarmViewer.baml
+C:\IPS_System\OWS\MainFrame\ProcessValue\obj\Debug\BarChartA.baml
+C:\IPS_System\OWS\MainFrame\ProcessValue\obj\Debug\DigitalValueText.baml
+C:\IPS_System\OWS\MainFrame\ProcessValue\obj\Debug\MenuMainButton.baml
+C:\IPS_System\OWS\MainFrame\ProcessValue\obj\Debug\PIDInfo.baml
+C:\IPS_System\OWS\MainFrame\ProcessValue\obj\Debug\PorcessValueBox.baml
+C:\IPS_System\OWS\MainFrame\ProcessValue\obj\Debug\ProcessValueText.baml
+C:\IPS_System\OWS\MainFrame\ProcessValue\obj\Debug\PVColorTextBox.baml
+C:\IPS_System\OWS\MainFrame\ProcessValue\obj\Debug\RodStatus.baml
+C:\IPS_System\OWS\MainFrame\ProcessValue\obj\Debug\TextBox.baml
+C:\IPS_System\OWS\MainFrame\ProcessValue\obj\Debug\Themes\Generic.baml
+C:\IPS_System\OWS\MainFrame\ProcessValue\obj\Debug\TrendChart.baml
+C:\IPS_System\OWS\MainFrame\ProcessValue\obj\Debug\TrendChartSignalSelect.baml
+C:\IPS_System\OWS\MainFrame\ProcessValue\obj\Debug\ProcessValue.g.resources
+C:\IPS_System\OWS\MainFrame\ProcessValue\obj\Debug\ProcessValue.Properties.Resources.resources
+C:\IPS_System\OWS\MainFrame\ProcessValue\obj\Debug\ProcessValue.csproj.GenerateResource.cache
+C:\IPS_System\OWS\MainFrame\ProcessValue\obj\Debug\ProcessValue.csproj.CoreCompileInputs.cache
+C:\IPS_System\OWS\MainFrame\ProcessValue\obj\Debug\ProcessValue.csproj.CopyComplete
+C:\IPS_System\OWS\MainFrame\ProcessValue\obj\Debug\ProcessValue.dll
+C:\IPS_System\OWS\MainFrame\ProcessValue\obj\Debug\ProcessValue.pdb
+C:\IPS_System\OWS\MainFrame\ProcessValue\bin\Debug\LibCommunication.dll
+C:\IPS_System\OWS\MainFrame\ProcessValue\bin\Debug\LibCommunication.pdb
+C:\IPS_System\OWS\MainFrame\ProcessValue\bin\Debug\LibCommunication.dll.config
+D:\Dev\OWS\MainFrame\ProcessValue\bin\Debug\ProcessValue.dll
+D:\Dev\OWS\MainFrame\ProcessValue\bin\Debug\ProcessValue.pdb
+D:\Dev\OWS\MainFrame\ProcessValue\bin\Debug\LibCommunication.dll
+D:\Dev\OWS\MainFrame\ProcessValue\bin\Debug\LibHistorian.dll
+D:\Dev\OWS\MainFrame\ProcessValue\bin\Debug\LibUtility.dll
+D:\Dev\OWS\MainFrame\ProcessValue\bin\Debug\PDBLib.dll
+D:\Dev\OWS\MainFrame\ProcessValue\bin\Debug\MySqlConnector.dll
+D:\Dev\OWS\MainFrame\ProcessValue\bin\Debug\InfluxDB.LineProtocol.dll
+D:\Dev\OWS\MainFrame\ProcessValue\bin\Debug\InfluxDB.Client.Core.dll
+D:\Dev\OWS\MainFrame\ProcessValue\bin\Debug\NodaTime.dll
+D:\Dev\OWS\MainFrame\ProcessValue\bin\Debug\InfluxDB.Client.dll
+D:\Dev\OWS\MainFrame\ProcessValue\bin\Debug\System.Memory.dll
+D:\Dev\OWS\MainFrame\ProcessValue\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Dev\OWS\MainFrame\ProcessValue\bin\Debug\System.Data.Common.dll
+D:\Dev\OWS\MainFrame\ProcessValue\bin\Debug\System.Buffers.dll
+D:\Dev\OWS\MainFrame\ProcessValue\bin\Debug\netstandard.dll
+D:\Dev\OWS\MainFrame\ProcessValue\bin\Debug\RestSharp.dll
+D:\Dev\OWS\MainFrame\ProcessValue\bin\Debug\Newtonsoft.Json.dll
+D:\Dev\OWS\MainFrame\ProcessValue\bin\Debug\CsvHelper.dll
+D:\Dev\OWS\MainFrame\ProcessValue\bin\Debug\System.Reactive.dll
+D:\Dev\OWS\MainFrame\ProcessValue\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+D:\Dev\OWS\MainFrame\ProcessValue\bin\Debug\System.Collections.Immutable.dll
+D:\Dev\OWS\MainFrame\ProcessValue\bin\Debug\JsonSubTypes.dll
+D:\Dev\OWS\MainFrame\ProcessValue\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Dev\OWS\MainFrame\ProcessValue\bin\Debug\System.ValueTuple.dll
+D:\Dev\OWS\MainFrame\ProcessValue\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Dev\OWS\MainFrame\ProcessValue\bin\Debug\System.Numerics.Vectors.dll
+D:\Dev\OWS\MainFrame\ProcessValue\bin\Debug\LibCommunication.pdb
+D:\Dev\OWS\MainFrame\ProcessValue\bin\Debug\LibCommunication.dll.config
+D:\Dev\OWS\MainFrame\ProcessValue\bin\Debug\LibUtility.pdb
+D:\Dev\OWS\MainFrame\ProcessValue\bin\Debug\PDBLib.pdb
+D:\Dev\OWS\MainFrame\ProcessValue\bin\Debug\PDBLib.dll.config
+D:\Dev\OWS\MainFrame\ProcessValue\bin\Debug\LibHistorian.pdb
+D:\Dev\OWS\MainFrame\ProcessValue\bin\Debug\LibHistorian.dll.config
+D:\Dev\OWS\MainFrame\ProcessValue\bin\Debug\MySqlConnector.xml
+D:\Dev\OWS\MainFrame\ProcessValue\bin\Debug\NodaTime.pdb
+D:\Dev\OWS\MainFrame\ProcessValue\bin\Debug\NodaTime.xml
+D:\Dev\OWS\MainFrame\ProcessValue\bin\Debug\System.Memory.xml
+D:\Dev\OWS\MainFrame\ProcessValue\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Dev\OWS\MainFrame\ProcessValue\bin\Debug\System.Buffers.xml
+D:\Dev\OWS\MainFrame\ProcessValue\bin\Debug\RestSharp.xml
+D:\Dev\OWS\MainFrame\ProcessValue\bin\Debug\Newtonsoft.Json.xml
+D:\Dev\OWS\MainFrame\ProcessValue\bin\Debug\CsvHelper.xml
+D:\Dev\OWS\MainFrame\ProcessValue\bin\Debug\System.Reactive.xml
+D:\Dev\OWS\MainFrame\ProcessValue\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+D:\Dev\OWS\MainFrame\ProcessValue\bin\Debug\System.Collections.Immutable.xml
+D:\Dev\OWS\MainFrame\ProcessValue\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Dev\OWS\MainFrame\ProcessValue\bin\Debug\System.Numerics.Vectors.xml
+D:\Dev\OWS\MainFrame\ProcessValue\obj\Debug\ProcessValue.csprojAssemblyReference.cache
+D:\Dev\OWS\MainFrame\ProcessValue\obj\Debug\AlarmViewer.g.cs
+D:\Dev\OWS\MainFrame\ProcessValue\obj\Debug\BarChartA.g.cs
+D:\Dev\OWS\MainFrame\ProcessValue\obj\Debug\DigitalValueText.g.cs
+D:\Dev\OWS\MainFrame\ProcessValue\obj\Debug\MenuMainButton.g.cs
+D:\Dev\OWS\MainFrame\ProcessValue\obj\Debug\PIDInfo.g.cs
+D:\Dev\OWS\MainFrame\ProcessValue\obj\Debug\PorcessValueBox.g.cs
+D:\Dev\OWS\MainFrame\ProcessValue\obj\Debug\ProcessValueText.g.cs
+D:\Dev\OWS\MainFrame\ProcessValue\obj\Debug\PVColorTextBox.g.cs
+D:\Dev\OWS\MainFrame\ProcessValue\obj\Debug\RodStatus.g.cs
+D:\Dev\OWS\MainFrame\ProcessValue\obj\Debug\TextBox.g.cs
+D:\Dev\OWS\MainFrame\ProcessValue\obj\Debug\TrendChart.g.cs
+D:\Dev\OWS\MainFrame\ProcessValue\obj\Debug\TrendChartSignalSelect.g.cs
+D:\Dev\OWS\MainFrame\ProcessValue\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Dev\OWS\MainFrame\ProcessValue\obj\Debug\ProcessValue_MarkupCompile.cache
+D:\Dev\OWS\MainFrame\ProcessValue\obj\Debug\ProcessValue_MarkupCompile.lref
+D:\Dev\OWS\MainFrame\ProcessValue\obj\Debug\AlarmViewer.baml
+D:\Dev\OWS\MainFrame\ProcessValue\obj\Debug\BarChartA.baml
+D:\Dev\OWS\MainFrame\ProcessValue\obj\Debug\DigitalValueText.baml
+D:\Dev\OWS\MainFrame\ProcessValue\obj\Debug\MenuMainButton.baml
+D:\Dev\OWS\MainFrame\ProcessValue\obj\Debug\PIDInfo.baml
+D:\Dev\OWS\MainFrame\ProcessValue\obj\Debug\PorcessValueBox.baml
+D:\Dev\OWS\MainFrame\ProcessValue\obj\Debug\ProcessValueText.baml
+D:\Dev\OWS\MainFrame\ProcessValue\obj\Debug\PVColorTextBox.baml
+D:\Dev\OWS\MainFrame\ProcessValue\obj\Debug\RodStatus.baml
+D:\Dev\OWS\MainFrame\ProcessValue\obj\Debug\TextBox.baml
+D:\Dev\OWS\MainFrame\ProcessValue\obj\Debug\Themes\Generic.baml
+D:\Dev\OWS\MainFrame\ProcessValue\obj\Debug\TrendChart.baml
+D:\Dev\OWS\MainFrame\ProcessValue\obj\Debug\TrendChartSignalSelect.baml
+D:\Dev\OWS\MainFrame\ProcessValue\obj\Debug\ProcessValue.g.resources
+D:\Dev\OWS\MainFrame\ProcessValue\obj\Debug\ProcessValue.Properties.Resources.resources
+D:\Dev\OWS\MainFrame\ProcessValue\obj\Debug\ProcessValue.csproj.GenerateResource.cache
+D:\Dev\OWS\MainFrame\ProcessValue\obj\Debug\ProcessValue.csproj.CoreCompileInputs.cache
+D:\Dev\OWS\MainFrame\ProcessValue\obj\Debug\ProcessValue.csproj.CopyComplete
+D:\Dev\OWS\MainFrame\ProcessValue\obj\Debug\ProcessValue.dll
+D:\Dev\OWS\MainFrame\ProcessValue\obj\Debug\ProcessValue.pdb
+D:\Dev\OWS\MainFrame\ProcessValue\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Dev\OWS\MainFrame\ProcessValue\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Dev\OWS\MainFrame\ProcessValue\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Dev\OWS\MainFrame\ProcessValue\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\ProcessValue.csprojAssemblyReference.cache
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\AlarmViewer.g.cs
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\BarChartA.g.cs
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\DigitalValueText.g.cs
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\MenuMainButton.g.cs
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\PIDInfo.g.cs
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\PorcessValueBox.g.cs
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\ProcessValueText.g.cs
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\PVColorTextBox.g.cs
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\RodStatus.g.cs
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\TextBox.g.cs
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\TrendChart.g.cs
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\TrendChartSignalSelect.g.cs
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\ProcessValue_MarkupCompile.cache
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\ProcessValue_MarkupCompile.lref
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\ProcessValue.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\ProcessValue.pdb
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\ProcessValue.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\ProcessValue.pdb
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\netstandard.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.AppContext.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Collections.Concurrent.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Collections.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Collections.NonGeneric.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Collections.Specialized.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.ComponentModel.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.ComponentModel.Primitives.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Console.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Data.Common.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Diagnostics.Contracts.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Diagnostics.Debug.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Diagnostics.Process.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Diagnostics.Tools.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Diagnostics.Tracing.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Drawing.Primitives.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Dynamic.Runtime.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Globalization.Calendars.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Globalization.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Globalization.Extensions.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.IO.Compression.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.IO.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.IO.FileSystem.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.IO.IsolatedStorage.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.IO.Pipes.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Linq.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Linq.Expressions.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Linq.Parallel.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Linq.Queryable.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Net.Http.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Net.NameResolution.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Net.NetworkInformation.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Net.Ping.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Net.Primitives.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Net.Requests.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Net.Security.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Net.Sockets.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Net.WebSockets.Client.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Net.WebSockets.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.ObjectModel.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Reflection.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Reflection.Extensions.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Reflection.Primitives.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Resources.Reader.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Resources.ResourceManager.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Resources.Writer.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Runtime.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Runtime.Extensions.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Runtime.Handles.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Runtime.InteropServices.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Runtime.Numerics.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Security.Claims.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Security.Principal.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Security.SecureString.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Text.Encoding.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Text.RegularExpressions.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Threading.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Threading.Overlapped.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Threading.Tasks.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Threading.Thread.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Threading.ThreadPool.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Threading.Timer.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.ValueTuple.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Xml.ReaderWriter.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Xml.XDocument.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Xml.XmlDocument.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Xml.XmlSerializer.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Xml.XPath.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\LibCommunication.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\LibHistorian.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\LibUtility.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\MySqlConnector.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\PDBLib.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\InfluxDB.Client.Core.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\NodaTime.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\InfluxDB.Client.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Memory.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Buffers.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\InfluxDB.LineProtocol.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\RestSharp.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\Newtonsoft.Json.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\CsvHelper.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Reactive.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Collections.Immutable.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\JsonSubTypes.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Numerics.Vectors.dll
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\NodaTime.pdb
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\NodaTime.xml
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Memory.xml
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Buffers.xml
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\RestSharp.xml
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\Newtonsoft.Json.xml
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\CsvHelper.xml
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Reactive.xml
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Collections.Immutable.xml
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Numerics.Vectors.xml
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\AlarmViewer.baml
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\BarChartA.baml
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\DigitalValueText.baml
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\MenuMainButton.baml
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\PIDInfo.baml
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\PorcessValueBox.baml
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\ProcessValueText.baml
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\PVColorTextBox.baml
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\RodStatus.baml
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\TextBox.baml
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\Themes\Generic.baml
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\TrendChart.baml
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\TrendChartSignalSelect.baml
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\ProcessValue.g.resources
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\ProcessValue.Properties.Resources.resources
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\ProcessValue.csproj.GenerateResource.cache
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\ProcessValue.csproj.CoreCompileInputs.cache
+D:\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\ProcessValue.csproj.CopyComplete
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\ProcessValue.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\ProcessValue.pdb
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\netstandard.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.AppContext.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Collections.Concurrent.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Collections.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Collections.NonGeneric.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Collections.Specialized.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.ComponentModel.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.ComponentModel.Primitives.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Console.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Data.Common.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Diagnostics.Contracts.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Diagnostics.Debug.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Diagnostics.Process.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Diagnostics.Tools.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Diagnostics.Tracing.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Drawing.Primitives.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Dynamic.Runtime.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Globalization.Calendars.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Globalization.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Globalization.Extensions.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.IO.Compression.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.IO.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.IO.FileSystem.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.IO.IsolatedStorage.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.IO.Pipes.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Linq.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Linq.Expressions.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Linq.Parallel.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Linq.Queryable.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Net.Http.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Net.NameResolution.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Net.NetworkInformation.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Net.Ping.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Net.Primitives.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Net.Requests.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Net.Security.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Net.Sockets.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Net.WebSockets.Client.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Net.WebSockets.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.ObjectModel.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Reflection.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Reflection.Extensions.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Reflection.Primitives.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Resources.Reader.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Resources.ResourceManager.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Resources.Writer.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Runtime.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Runtime.Extensions.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Runtime.Handles.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Runtime.InteropServices.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Runtime.Numerics.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Security.Claims.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Security.Principal.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Security.SecureString.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Text.Encoding.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Text.RegularExpressions.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Threading.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Threading.Overlapped.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Threading.Tasks.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Threading.Thread.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Threading.ThreadPool.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Threading.Timer.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.ValueTuple.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Xml.ReaderWriter.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Xml.XDocument.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Xml.XmlDocument.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Xml.XmlSerializer.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Xml.XPath.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\LibCommunication.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\LibHistorian.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\LibUtility.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\MySqlConnector.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\PDBLib.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\InfluxDB.Client.Core.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\NodaTime.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\InfluxDB.Client.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Memory.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Buffers.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\InfluxDB.LineProtocol.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\RestSharp.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\Newtonsoft.Json.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\CsvHelper.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Reactive.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Collections.Immutable.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\JsonSubTypes.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Numerics.Vectors.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\NodaTime.pdb
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\NodaTime.xml
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Memory.xml
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Buffers.xml
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\RestSharp.xml
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\Newtonsoft.Json.xml
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\CsvHelper.xml
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Reactive.xml
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Collections.Immutable.xml
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Numerics.Vectors.xml
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\ProcessValue.csprojAssemblyReference.cache
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\AlarmViewer.g.cs
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\BarChartA.g.cs
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\DigitalValueText.g.cs
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\MenuMainButton.g.cs
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\PIDInfo.g.cs
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\PorcessValueBox.g.cs
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\ProcessValueText.g.cs
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\PVColorTextBox.g.cs
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\RodStatus.g.cs
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\TextBox.g.cs
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\TrendChart.g.cs
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\TrendChartSignalSelect.g.cs
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\ProcessValue_MarkupCompile.cache
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\ProcessValue_MarkupCompile.lref
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\AlarmViewer.baml
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\BarChartA.baml
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\DigitalValueText.baml
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\MenuMainButton.baml
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\PIDInfo.baml
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\PorcessValueBox.baml
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\ProcessValueText.baml
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\PVColorTextBox.baml
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\RodStatus.baml
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\TextBox.baml
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\Themes\Generic.baml
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\TrendChart.baml
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\TrendChartSignalSelect.baml
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\ProcessValue.g.resources
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\ProcessValue.Properties.Resources.resources
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\ProcessValue.csproj.GenerateResource.cache
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\ProcessValue.csproj.CoreCompileInputs.cache
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\ProcessValue.csproj.CopyComplete
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\ProcessValue.dll
+C:\01. WORK\__Project\0. KJRR\12.0 시뮬레이터 및 IPS 개발\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\ProcessValue.pdb
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\ProcessValue.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\ProcessValue.pdb
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\netstandard.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.AppContext.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Collections.Concurrent.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Collections.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Collections.NonGeneric.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Collections.Specialized.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.ComponentModel.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.ComponentModel.Primitives.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Console.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Data.Common.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Diagnostics.Contracts.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Diagnostics.Debug.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Diagnostics.Process.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Diagnostics.Tools.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Diagnostics.Tracing.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Drawing.Primitives.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Dynamic.Runtime.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Globalization.Calendars.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Globalization.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Globalization.Extensions.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.IO.Compression.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.IO.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.IO.FileSystem.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.IO.IsolatedStorage.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.IO.Pipes.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Linq.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Linq.Expressions.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Linq.Parallel.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Linq.Queryable.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Net.Http.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Net.NameResolution.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Net.NetworkInformation.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Net.Ping.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Net.Primitives.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Net.Requests.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Net.Security.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Net.Sockets.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Net.WebSockets.Client.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Net.WebSockets.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.ObjectModel.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Reflection.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Reflection.Extensions.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Reflection.Primitives.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Resources.Reader.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Resources.ResourceManager.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Resources.Writer.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Runtime.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Runtime.Extensions.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Runtime.Handles.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Runtime.InteropServices.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Runtime.Numerics.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Security.Claims.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Security.Principal.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Security.SecureString.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Text.Encoding.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Text.RegularExpressions.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Threading.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Threading.Overlapped.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Threading.Tasks.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Threading.Thread.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Threading.ThreadPool.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Threading.Timer.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.ValueTuple.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Xml.ReaderWriter.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Xml.XDocument.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Xml.XmlDocument.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Xml.XmlSerializer.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Xml.XPath.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\LibCommunication.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\LibHistorian.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\LibUtility.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\MySqlConnector.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\PDBLib.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Memory.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Buffers.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\bin\Debug\System.Numerics.Vectors.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\ProcessValue.csproj.AssemblyReference.cache
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\AlarmViewer.g.cs
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\BarChartA.g.cs
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\DigitalValueText.g.cs
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\MenuMainButton.g.cs
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\PIDInfo.g.cs
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\PorcessValueBox.g.cs
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\ProcessValueText.g.cs
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\PVColorTextBox.g.cs
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\RodStatus.g.cs
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\TextBox.g.cs
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\TrendChart.g.cs
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\TrendChartSignalSelect.g.cs
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\ProcessValue_MarkupCompile.cache
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\ProcessValue_MarkupCompile.lref
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\AlarmViewer.baml
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\BarChartA.baml
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\DigitalValueText.baml
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\MenuMainButton.baml
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\PIDInfo.baml
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\PorcessValueBox.baml
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\ProcessValueText.baml
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\PVColorTextBox.baml
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\RodStatus.baml
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\TextBox.baml
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\Themes\Generic.baml
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\TrendChart.baml
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\TrendChartSignalSelect.baml
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\ProcessValue.g.resources
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\ProcessValue.Properties.Resources.resources
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\ProcessValue.csproj.GenerateResource.cache
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\ProcessValue.csproj.CoreCompileInputs.cache
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\ProcessV.21093B87.Up2Date
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\ProcessValue.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\100_Document\기장로 개발관련\4. MMI\IPS-김성진\시뮬레이터 배포용\화면설계용 소스코드\MainFrame\ProcessValue\obj\Debug\ProcessValue.pdb
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_Blend\ReactorControl_Blend\ProcessValue\bin\Debug\ProcessValue.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_Blend\ReactorControl_Blend\ProcessValue\bin\Debug\ProcessValue.pdb
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_Blend\ReactorControl_Blend\ProcessValue\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_Blend\ReactorControl_Blend\ProcessValue\bin\Debug\System.Memory.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_Blend\ReactorControl_Blend\ProcessValue\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_Blend\ReactorControl_Blend\ProcessValue\bin\Debug\System.Buffers.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_Blend\ReactorControl_Blend\ProcessValue\bin\Debug\System.Numerics.Vectors.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_Blend\ReactorControl_Blend\ProcessValue\obj\Debug\ProcessValue.csproj.AssemblyReference.cache
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_Blend\ReactorControl_Blend\ProcessValue\obj\Debug\AlarmViewer.g.cs
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_Blend\ReactorControl_Blend\ProcessValue\obj\Debug\BarChartA.g.cs
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_Blend\ReactorControl_Blend\ProcessValue\obj\Debug\DigitalValueText.g.cs
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_Blend\ReactorControl_Blend\ProcessValue\obj\Debug\MenuMainButton.g.cs
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_Blend\ReactorControl_Blend\ProcessValue\obj\Debug\PIDInfo.g.cs
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_Blend\ReactorControl_Blend\ProcessValue\obj\Debug\PorcessValueBox.g.cs
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_Blend\ReactorControl_Blend\ProcessValue\obj\Debug\ProcessValueText.g.cs
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_Blend\ReactorControl_Blend\ProcessValue\obj\Debug\PVColorTextBox.g.cs
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_Blend\ReactorControl_Blend\ProcessValue\obj\Debug\RodStatus.g.cs
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_Blend\ReactorControl_Blend\ProcessValue\obj\Debug\TextBox.g.cs
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_Blend\ReactorControl_Blend\ProcessValue\obj\Debug\TrendChart.g.cs
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_Blend\ReactorControl_Blend\ProcessValue\obj\Debug\TrendChartSignalSelect.g.cs
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_Blend\ReactorControl_Blend\ProcessValue\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_Blend\ReactorControl_Blend\ProcessValue\obj\Debug\ProcessValue_MarkupCompile.cache
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_Blend\ReactorControl_Blend\ProcessValue\obj\Debug\ProcessValue_MarkupCompile.lref
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_Blend\ReactorControl_Blend\ProcessValue\obj\Debug\AlarmViewer.baml
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_Blend\ReactorControl_Blend\ProcessValue\obj\Debug\BarChartA.baml
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_Blend\ReactorControl_Blend\ProcessValue\obj\Debug\DigitalValueText.baml
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_Blend\ReactorControl_Blend\ProcessValue\obj\Debug\MenuMainButton.baml
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_Blend\ReactorControl_Blend\ProcessValue\obj\Debug\PIDInfo.baml
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_Blend\ReactorControl_Blend\ProcessValue\obj\Debug\PorcessValueBox.baml
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_Blend\ReactorControl_Blend\ProcessValue\obj\Debug\ProcessValueText.baml
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_Blend\ReactorControl_Blend\ProcessValue\obj\Debug\PVColorTextBox.baml
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_Blend\ReactorControl_Blend\ProcessValue\obj\Debug\RodStatus.baml
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_Blend\ReactorControl_Blend\ProcessValue\obj\Debug\TextBox.baml
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_Blend\ReactorControl_Blend\ProcessValue\obj\Debug\Themes\Generic.baml
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_Blend\ReactorControl_Blend\ProcessValue\obj\Debug\TrendChart.baml
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_Blend\ReactorControl_Blend\ProcessValue\obj\Debug\TrendChartSignalSelect.baml
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_Blend\ReactorControl_Blend\ProcessValue\obj\Debug\ProcessValue.g.resources
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_Blend\ReactorControl_Blend\ProcessValue\obj\Debug\ProcessValue.Properties.Resources.resources
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_Blend\ReactorControl_Blend\ProcessValue\obj\Debug\ProcessValue.csproj.GenerateResource.cache
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_Blend\ReactorControl_Blend\ProcessValue\obj\Debug\ProcessValue.csproj.CoreCompileInputs.cache
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_Blend\ReactorControl_Blend\ProcessValue\obj\Debug\ProcessV.21093B87.Up2Date
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_Blend\ReactorControl_Blend\ProcessValue\obj\Debug\ProcessValue.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_Blend\ReactorControl_Blend\ProcessValue\obj\Debug\ProcessValue.pdb
+E:\SVN_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\bin\Debug\ProcessValue.dll
+E:\SVN_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\bin\Debug\ProcessValue.pdb
+E:\SVN_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\bin\Debug\System.Memory.dll
+E:\SVN_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\bin\Debug\System.Buffers.dll
+E:\SVN_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\bin\Debug\System.Numerics.Vectors.dll
+E:\SVN_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\ProcessValue.csproj.AssemblyReference.cache
+E:\SVN_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\AlarmViewer.g.cs
+E:\SVN_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\BarChartA.g.cs
+E:\SVN_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\DigitalValueText.g.cs
+E:\SVN_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\MenuMainButton.g.cs
+E:\SVN_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\PIDInfo.g.cs
+E:\SVN_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\PorcessValueBox.g.cs
+E:\SVN_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\ProcessValueText.g.cs
+E:\SVN_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\PVColorTextBox.g.cs
+E:\SVN_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\RodStatus.g.cs
+E:\SVN_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\TextBox.g.cs
+E:\SVN_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\TrendChart.g.cs
+E:\SVN_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\TrendChartSignalSelect.g.cs
+E:\SVN_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\SVN_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\ProcessValue_MarkupCompile.cache
+E:\SVN_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\ProcessValue_MarkupCompile.lref
+E:\SVN_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\AlarmViewer.baml
+E:\SVN_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\BarChartA.baml
+E:\SVN_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\DigitalValueText.baml
+E:\SVN_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\MenuMainButton.baml
+E:\SVN_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\PIDInfo.baml
+E:\SVN_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\PorcessValueBox.baml
+E:\SVN_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\ProcessValueText.baml
+E:\SVN_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\PVColorTextBox.baml
+E:\SVN_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\RodStatus.baml
+E:\SVN_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\TextBox.baml
+E:\SVN_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\Themes\Generic.baml
+E:\SVN_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\TrendChart.baml
+E:\SVN_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\TrendChartSignalSelect.baml
+E:\SVN_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\ProcessValue.g.resources
+E:\SVN_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\ProcessValue.Properties.Resources.resources
+E:\SVN_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\ProcessValue.csproj.GenerateResource.cache
+E:\SVN_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\ProcessValue.csproj.CoreCompileInputs.cache
+E:\SVN_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\ProcessV.21093B87.Up2Date
+E:\SVN_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\ProcessValue.dll
+E:\SVN_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\ProcessValue.pdb
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\bin\Debug\ProcessValue.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\bin\Debug\ProcessValue.pdb
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\bin\Debug\System.Memory.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\bin\Debug\System.Buffers.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\bin\Debug\System.Numerics.Vectors.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\ProcessValue.csproj.AssemblyReference.cache
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\AlarmViewer.g.cs
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\BarChartA.g.cs
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\DigitalValueText.g.cs
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\MenuMainButton.g.cs
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\PIDInfo.g.cs
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\PorcessValueBox.g.cs
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\ProcessValueText.g.cs
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\PVColorTextBox.g.cs
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\RodStatus.g.cs
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\TextBox.g.cs
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\TrendChart.g.cs
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\TrendChartSignalSelect.g.cs
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\ProcessValue_MarkupCompile.cache
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\ProcessValue_MarkupCompile.lref
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\AlarmViewer.baml
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\BarChartA.baml
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\DigitalValueText.baml
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\MenuMainButton.baml
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\PIDInfo.baml
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\PorcessValueBox.baml
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\ProcessValueText.baml
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\PVColorTextBox.baml
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\RodStatus.baml
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\TextBox.baml
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\Themes\Generic.baml
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\TrendChart.baml
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\TrendChartSignalSelect.baml
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\ProcessValue.g.resources
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\ProcessValue.Properties.Resources.resources
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\ProcessValue.csproj.GenerateResource.cache
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\ProcessValue.csproj.CoreCompileInputs.cache
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\ProcessV.21093B87.Up2Date
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\ProcessValue.dll
+D:\svn_zetta\olive\Zetta\ReactorContoller\300_Develop\ReactorControl_Blend\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\ProcessValue.pdb

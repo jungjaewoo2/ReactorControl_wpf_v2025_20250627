@@ -1,0 +1,31 @@
+﻿<Window x:Class="ProcessValue.PIDInfo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProcessValue"
+        mc:Ignorable="d"
+        Title="PIDInfo" Height="39" Width="255" WindowStyle="None" Background="White" BorderBrush="White" ResizeMode="NoResize" ShowInTaskbar="False">
+    <Border>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Border>
+            <Border.Background>
+                <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0,1">
+                    <GradientStop Color="#FFDEDEDE" Offset="1"/>
+                    <GradientStop Color="White"/>
+                </LinearGradientBrush>
+            </Border.Background>
+            <TextBlock x:Name ="PID" Text="AI000000"  Margin="3,0,0,0" FontFamily="Arial" FontSize="10" VerticalAlignment="Center"/>
+                
+        </Border>
+        <Border Grid.Row="1" Background="#FFFFFCFC" >
+            <TextBlock x:Name ="Descpriton" Text="AI000" Grid.Row="1" Margin="3,0,0,0" FontFamily="Arial" FontSize="8" VerticalAlignment="Center"/>
+        </Border>
+
+    </Grid>
+    </Border>
+</Window>

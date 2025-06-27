@@ -1,0 +1,61 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ReactorControl.Popup"
+        xmlns:ProcessValue="clr-namespace:ProcessValue;assembly=ProcessValue" x:Class="ReactorControl.Popup.Popup_pumpControl"
+        mc:Ignorable="d"
+        Title="Popup_ProcessControl1" Height="280" Width="300"
+        WindowStartupLocation="CenterScreen" WindowStyle="None"
+        AllowsTransparency="True"
+        Background="#999999" FontSize="16">
+    
+   
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="40"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0" Background="#AAAAAA">
+            <TextBlock Text="펌프 제어" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="16"/>
+            <Button Content="X" Click="Close_Click" Width="25" Height="25" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0,0,0,0"/>
+        </Grid>
+        <Grid Grid.Row="1" Background="#CCCCCC">
+            <Label Content="장치명:" HorizontalAlignment="Left" Height="35" VerticalAlignment="Center" FontWeight="Bold" FontSize="16"/>
+            <Label Content="PP-001" HorizontalAlignment="Left" Height="35" VerticalAlignment="Center" Margin="60,0,0,0" FontSize="16"/>
+        </Grid>
+        <Grid Grid.Row="2" Background="#CCCCCC">
+            <Label Content="현재상태:" HorizontalAlignment="Left" Height="35" VerticalAlignment="Center" FontWeight="Bold" FontSize="16"/>
+            <Label Content="RUN" HorizontalAlignment="Left" Height="35" VerticalAlignment="Center" Margin="75,0,0,0" Foreground="#555555" FontSize="16"/>
+        </Grid>
+        <Grid Grid.Row="3" Background="#CCCCCC">
+            <Label Content="통신상태:" HorizontalAlignment="Left" Height="35" VerticalAlignment="Center" FontWeight="Bold" FontSize="16"/>
+            <Label Name="lbl_server_request" Content="요청" HorizontalAlignment="Left" Height="35" VerticalAlignment="Center" Margin="70,0,0,0" Foreground="#aaaaaa" FontSize="16" />
+            <Label Name="lbl_server_receive" Content="-&gt;응답" HorizontalAlignment="Left" Height="35" VerticalAlignment="Center" Margin="110,0,0,0" Foreground="#aaaaaa" FontSize="16"/>
+            <Label Name="lbl_server_process" Content="-&gt;처리" HorizontalAlignment="Left" Height="35" VerticalAlignment="Center" Margin="160,0,0,0" Foreground="#aaaaaa" FontSize="16"/>
+            <Label Name="lbl_server_result" Content="-&gt;결과" HorizontalAlignment="Left" Height="35" VerticalAlignment="Center" Margin="210,0,0,0" Foreground="#aaaaaa" FontSize="16"/>
+            <!--<Button Content="창닫기" Click="Close_Click" Width="80" Height="25" VerticalAlignment="Bottom" Margin="0,0,0,0"/> -->
+        </Grid>
+        <Grid Grid.Row="4" Background="#CCCCCC">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0">
+                <Button Name="BtnOpen" Content="RUN" Click="BtnOpen_Click" Width="80" Height="30" Margin="5"/>
+                <Button Name="BtnClose" Content="STOP" Click="BtnClose_Click" Width="80" Height="30" Margin="5"/>
+                <!--                <ProcessValue:MenuMainButton TextContent="열 기" Click="Close_Click" Tag="열 기" Margin="0,0,0,0" Width="100"/> -->
+            </StackPanel>
+        </Grid>
+        <Grid Grid.Row="5" Background="#CCCCCC">
+        </Grid>
+        <Grid Grid.Row="6" Background="#CCCCCC">
+            <Label Content="상태:" HorizontalAlignment="Left" Height="35" VerticalAlignment="Center" FontWeight="Bold" FontSize="16"/> 
+            <Label Content="펌프 제어 대기 중입니다" HorizontalAlignment="Left" Height="35" VerticalAlignment="Center" Margin="45,0,0,0" Foreground="#333333" FontSize="16"/>
+        </Grid>
+    </Grid>
+</Window>

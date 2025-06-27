@@ -1,0 +1,124 @@
+﻿<Window x:Class="ProcessValue.TrendChartSignalSelect"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProcessValue"
+        mc:Ignorable="d"
+        Title="TrendChartSignalSelect" Height="450" Width="600" Loaded="Window_Loaded">
+    <Window.Resources>
+        <local:PIDLists x:Key="_PIDLists" />
+    </Window.Resources>
+    <Border Background="White" BorderBrush="Black" CornerRadius="10" BorderThickness="1">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1*" />
+                <RowDefinition Height="6*"/>
+                <RowDefinition Height="1*"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <ListView x:Name="PIDListView"  Margin="10"  Background="#FFE0E0E0" Grid.Row="1" MouseDoubleClick="PIDListView_MouseDoubleClick">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="Point ID" DisplayMemberBinding="{Binding Path=PointID}" Width="120"/>
+                        <GridViewColumn Header="Description" DisplayMemberBinding="{Binding Path=Description}" Width="445"/>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+
+            <Border Grid.Row="2" Grid.Column="1" >
+                <Grid >
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+
+                    <!-- 각 선택 버튼 및 선택 항목창 -->
+                    <Grid >
+                        <Grid.RowDefinitions>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+                        <Button Margin="20,3" Click="PID01_Select" />
+                        <Button Margin="20,3" Grid.Column="1" Click="PID01_Clear" />
+                        <Border Grid.Row="2" Grid.ColumnSpan="2" Background="#FFECECEC" Margin="3" CornerRadius="3">
+                            <TextBlock x:Name="PID01" Text="-"  HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                    </Grid>
+
+                    <!-- 각 선택 버튼 및 선택 항목창 -->
+                    <Grid Grid.Column="1" >
+                        <Grid.RowDefinitions>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+                        <Button Margin="20,3" Click="PID02_Select" />
+                        <Button Margin="20,3" Grid.Column="1" Click="PID02_Clear" />
+                        <Border Grid.Row="2" Grid.ColumnSpan="2" Background="#FFECECEC" Margin="3" CornerRadius="3">
+                            <TextBlock x:Name="PID02" Text="-"  HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                    </Grid>
+
+                    <!-- 각 선택 버튼 및 선택 항목창 -->
+                    <Grid Grid.Column="2" >
+                        <Grid.RowDefinitions>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+                        <Button Margin="20,3" Click="PID03_Select" />
+                        <Button Margin="20,3" Grid.Column="1" Click="PID03_Clear" />
+                        <Border Grid.Row="2" Grid.ColumnSpan="2" Background="#FFECECEC" Margin="3" CornerRadius="3">
+                            <TextBlock x:Name="PID03" Text="-"  HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                    </Grid>
+
+                    <!-- 각 선택 버튼 및 선택 항목창 -->
+                    <Grid Grid.Column="3" >
+                        <Grid.RowDefinitions>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+                        <Button Margin="20,3" Click="PID04_Select" />
+                        <Button Margin="20,3" Grid.Column="1" Click="PID04_Clear" />
+                        <Border Grid.Row="2" Grid.ColumnSpan="2" Background="#FFECECEC" Margin="3" CornerRadius="3">
+                            <TextBlock x:Name="PID04" Text="-"  HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                    </Grid>
+                </Grid>
+            </Border>
+
+            <Border Grid.Row="4">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition Width="2*"/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Button Content="_OK" Margin="5" Click="OnOK"/>
+                    <Button Content="_Cancel" Margin="5" Grid.Column="2" Click="OnCancel" />
+
+                </Grid>
+            </Border>
+
+        </Grid>
+    </Border>
+</Window>

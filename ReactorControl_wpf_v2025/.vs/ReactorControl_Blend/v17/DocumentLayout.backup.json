@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\svn_zetta\\olive\\Zetta\\ReactorContoller\\300_Develop\\ReactorControl_Blend\\ReactorControl_Blend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E15612C-4CEA-4B74-ACBF-F0E220A598BA}|ReactorControl_Blend\\ReactorControl_Blend.csproj|d:\\svn_zetta\\olive\\zetta\\reactorcontoller\\300_develop\\reactorcontrol_blend\\reactorcontrol_blend\\reactorcontrol_blend\\view\\uc_rxpowercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8E15612C-4CEA-4B74-ACBF-F0E220A598BA}|ReactorControl_Blend\\ReactorControl_Blend.csproj|solutionrelative:reactorcontrol_blend\\view\\uc_rxpowercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E15612C-4CEA-4B74-ACBF-F0E220A598BA}|ReactorControl_Blend\\ReactorControl_Blend.csproj|d:\\svn_zetta\\olive\\zetta\\reactorcontoller\\300_develop\\reactorcontrol_blend\\reactorcontrol_blend\\reactorcontrol_blend\\view\\uc_pc_activedrainagesystem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8E15612C-4CEA-4B74-ACBF-F0E220A598BA}|ReactorControl_Blend\\ReactorControl_Blend.csproj|solutionrelative:reactorcontrol_blend\\view\\uc_pc_activedrainagesystem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E15612C-4CEA-4B74-ACBF-F0E220A598BA}|ReactorControl_Blend\\ReactorControl_Blend.csproj|d:\\svn_zetta\\olive\\zetta\\reactorcontoller\\300_develop\\reactorcontrol_blend\\reactorcontrol_blend\\reactorcontrol_blend\\view\\uc_processcontrtol_main.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8E15612C-4CEA-4B74-ACBF-F0E220A598BA}|ReactorControl_Blend\\ReactorControl_Blend.csproj|solutionrelative:reactorcontrol_blend\\view\\uc_processcontrtol_main.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E15612C-4CEA-4B74-ACBF-F0E220A598BA}|ReactorControl_Blend\\ReactorControl_Blend.csproj|d:\\svn_zetta\\olive\\zetta\\reactorcontoller\\300_develop\\reactorcontrol_blend\\reactorcontrol_blend\\reactorcontrol_blend\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8E15612C-4CEA-4B74-ACBF-F0E220A598BA}|ReactorControl_Blend\\ReactorControl_Blend.csproj|solutionrelative:reactorcontrol_blend\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E15612C-4CEA-4B74-ACBF-F0E220A598BA}|ReactorControl_Blend\\ReactorControl_Blend.csproj|d:\\svn_zetta\\olive\\zetta\\reactorcontoller\\300_develop\\reactorcontrol_blend\\reactorcontrol_blend\\reactorcontrol_blend\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{8E15612C-4CEA-4B74-ACBF-F0E220A598BA}|ReactorControl_Blend\\ReactorControl_Blend.csproj|solutionrelative:reactorcontrol_blend\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E15612C-4CEA-4B74-ACBF-F0E220A598BA}|ReactorControl_Blend\\ReactorControl_Blend.csproj|d:\\svn_zetta\\olive\\zetta\\reactorcontoller\\300_develop\\reactorcontrol_blend\\reactorcontrol_blend\\reactorcontrol_blend\\view\\uc_processcontrtol_main.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E15612C-4CEA-4B74-ACBF-F0E220A598BA}|ReactorControl_Blend\\ReactorControl_Blend.csproj|solutionrelative:reactorcontrol_blend\\view\\uc_processcontrtol_main.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 607,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UC_RxPowerControl.xaml",
+              "DocumentMoniker": "D:\\svn_zetta\\olive\\Zetta\\ReactorContoller\\300_Develop\\ReactorControl_Blend\\ReactorControl_Blend\\ReactorControl_Blend\\View\\UC_RxPowerControl.xaml",
+              "RelativeDocumentMoniker": "ReactorControl_Blend\\View\\UC_RxPowerControl.xaml",
+              "ToolTip": "D:\\svn_zetta\\olive\\Zetta\\ReactorContoller\\300_Develop\\ReactorControl_Blend\\ReactorControl_Blend\\ReactorControl_Blend\\View\\UC_RxPowerControl.xaml*",
+              "RelativeToolTip": "ReactorControl_Blend\\View\\UC_RxPowerControl.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-13T06:59:23.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UC_PC_ActiveDrainageSystem.xaml",
+              "DocumentMoniker": "D:\\svn_zetta\\olive\\Zetta\\ReactorContoller\\300_Develop\\ReactorControl_Blend\\ReactorControl_Blend\\ReactorControl_Blend\\View\\UC_PC_ActiveDrainageSystem.xaml",
+              "RelativeDocumentMoniker": "ReactorControl_Blend\\View\\UC_PC_ActiveDrainageSystem.xaml",
+              "ToolTip": "D:\\svn_zetta\\olive\\Zetta\\ReactorContoller\\300_Develop\\ReactorControl_Blend\\ReactorControl_Blend\\ReactorControl_Blend\\View\\UC_PC_ActiveDrainageSystem.xaml",
+              "RelativeToolTip": "ReactorControl_Blend\\View\\UC_PC_ActiveDrainageSystem.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-13T06:52:37.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\svn_zetta\\olive\\Zetta\\ReactorContoller\\300_Develop\\ReactorControl_Blend\\ReactorControl_Blend\\ReactorControl_Blend\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ReactorControl_Blend\\MainWindow.xaml",
+              "ToolTip": "D:\\svn_zetta\\olive\\Zetta\\ReactorContoller\\300_Develop\\ReactorControl_Blend\\ReactorControl_Blend\\ReactorControl_Blend\\MainWindow.xaml",
+              "RelativeToolTip": "ReactorControl_Blend\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-13T06:36:16.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "View\\UC_ProcessContrtol_Main.xaml.cs",
+              "DocumentMoniker": "D:\\svn_zetta\\olive\\Zetta\\ReactorContoller\\300_Develop\\ReactorControl_Blend\\ReactorControl_Blend\\ReactorControl_Blend\\View\\UC_ProcessContrtol_Main.xaml.cs",
+              "RelativeDocumentMoniker": "ReactorControl_Blend\\View\\UC_ProcessContrtol_Main.xaml.cs",
+              "ToolTip": "D:\\svn_zetta\\olive\\Zetta\\ReactorContoller\\300_Develop\\ReactorControl_Blend\\ReactorControl_Blend\\ReactorControl_Blend\\View\\UC_ProcessContrtol_Main.xaml.cs",
+              "RelativeToolTip": "ReactorControl_Blend\\View\\UC_ProcessContrtol_Main.xaml.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAhwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T03:44:37.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UC_ProcessContrtol_Main.xaml",
+              "DocumentMoniker": "D:\\svn_zetta\\olive\\Zetta\\ReactorContoller\\300_Develop\\ReactorControl_Blend\\ReactorControl_Blend\\ReactorControl_Blend\\View\\UC_ProcessContrtol_Main.xaml",
+              "RelativeDocumentMoniker": "ReactorControl_Blend\\View\\UC_ProcessContrtol_Main.xaml",
+              "ToolTip": "D:\\svn_zetta\\olive\\Zetta\\ReactorContoller\\300_Develop\\ReactorControl_Blend\\ReactorControl_Blend\\ReactorControl_Blend\\View\\UC_ProcessContrtol_Main.xaml",
+              "RelativeToolTip": "ReactorControl_Blend\\View\\UC_ProcessContrtol_Main.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-13T03:42:44.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\svn_zetta\\olive\\Zetta\\ReactorContoller\\300_Develop\\ReactorControl_Blend\\ReactorControl_Blend\\ReactorControl_Blend\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ReactorControl_Blend\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\svn_zetta\\olive\\Zetta\\ReactorContoller\\300_Develop\\ReactorControl_Blend\\ReactorControl_Blend\\ReactorControl_Blend\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ReactorControl_Blend\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAhwIoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T00:47:14.513Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 81,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{2d4d7b63-2712-49a6-a309-3ff689de5696}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
